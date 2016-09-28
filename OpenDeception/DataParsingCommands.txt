@@ -1,0 +1,5 @@
+wc -l SmallLies.csv
+awk -F, 'NF{NF-=1};1' OnlyTruths.csv > TextTruths.csv
+cut -d, -f 6- Truths.csv > OnlyTruths.csv
+cut -d, -f 6- 7Truth7LiesDataset.csv | head -n10
+head -n10 | cut -d, -f 6- 7Truth7LiesDataset.csv

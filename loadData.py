@@ -9,10 +9,11 @@ Created on Wed Sep 28 11:29:54 2016
 
 
 def loadData():
-    lies = "SmallLies.csv"
-    truth = "SmallTruths.csv"
+    lies = "100OnlyLies.csv"
+    truth = "100OnlyTruths.csv"
     lptr = open(lies)
     for i in lptr:
+        i = i.rstrip()
         print i
     
     

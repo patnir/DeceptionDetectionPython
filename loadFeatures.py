@@ -23,11 +23,25 @@ def loadWordsAndOccurances():
     
     print len(wordsList)
         
+    fptr.close()
     return wordsList
+
+def writeWords(words):
+    filename = "features.txt"
+    fptr = open(filename, 'w')
+    
+    words.sort()    
+    
+    for i in words:
+        print i
+        fptr.write(i + "\n")
+
+    fptr.close()        
 
 def main():
     words = loadWordsAndOccurances()
     print words
+    writeWords(words)
     return
     
 main()

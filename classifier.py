@@ -128,12 +128,8 @@ def classifier(features, Training, Testing, dataSet, labels):
         
 def main():
     features = loadFeaturesFromFile("featuresNew.txt")
-    dataSet, labels = loadTestingAndTrainingData("100Truths.csv", "100Lies.csv")
+    dataSet, labels = loadTestingAndTrainingData("JustTruths.csv", "JustLies.csv")
     Training, Testing = crossValidation(dataSet, labels)
     classifier(features, Training, Testing, dataSet, labels)
-    
-    
-    
-        
     
 main()

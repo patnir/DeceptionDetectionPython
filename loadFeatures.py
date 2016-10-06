@@ -18,7 +18,7 @@ def loadWordsAndOccurances():
     wordsList = []
     
     for i in range(len(val)):
-        if val[i] > 4 and val[i] < 20:
+        if val[i] > 2:
             wordsList.append(key[i])
     
     print len(wordsList)
@@ -27,7 +27,7 @@ def loadWordsAndOccurances():
     return wordsList
 
 def writeWords(words):
-    filename = "features.txt"
+    filename = "featuresNew.txt"
     fptr = open(filename, 'w')
     
     words.sort()    

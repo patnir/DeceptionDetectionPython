@@ -1,0 +1,1200 @@
+1_f_l_1,Female,26,'Bachelors degree',Canada,'There is a great deal of truth to the anti-vax movement.',lie,n
+1_f_l_2,Female,26,'Bachelors degree',Canada,'Jenny mccarthy is a learned doctor who deserves our respect.',lie,o
+1_f_l_3,Female,26,'Bachelors degree',Canada,'Driving doesn\'t really require any practice.',lie,o
+1_f_l_4,Female,26,'Bachelors degree',Canada,'Drinking and driving is a winning and safe combination.',lie,o
+1_f_l_5,Female,26,'Bachelors degree',Canada,'Good hygiene isn\'t really important or attractive.',lie,n
+1_f_l_6,Female,26,'Bachelors degree',Canada,'The coolest guys in highschool never stop being cool.',lie,n
+1_f_l_7,Female,26,'Bachelors degree',Canada,'Robbing banks rarely leads to negative consequence.',lie,o
+2_f_l_1,Female,22,'Some college, no degree','United States of America','I can bench press 600 pounds.',lie,o
+2_f_l_2,Female,22,'Some college, no degree','United States of America','I was born with four feet.',lie,o
+2_f_l_3,Female,22,'Some college, no degree','United States of America','I have never met the man who i am living with.',lie,o
+2_f_l_4,Female,22,'Some college, no degree','United States of America','I can eat five gallons of ice cream in 20 minutes.',lie,o
+2_f_l_5,Female,22,'Some college, no degree','United States of America','I have never lost a hand of poker.',lie,n
+2_f_l_6,Female,22,'Some college, no degree','United States of America','I have won the lottery 16 times.',lie,o
+2_f_l_7,Female,22,'Some college, no degree','United States of America','I never eat or sleep.',lie,o
+3_f_l_1,Female,29,'Associates degree',Canada,'The longest a butterfly can live is 2 years.',lie,n
+3_f_l_2,Female,29,'Associates degree',Canada,'In order to vote in canada, you have to be at least 16 years old.',lie,n
+3_f_l_3,Female,29,'Associates degree',Canada,'Galveston, texas was established in 1563.',lie,n
+3_f_l_4,Female,29,'Associates degree',Canada,'George washington was born in miami, florida.',lie,o
+3_f_l_5,Female,29,'Associates degree',Canada,'The only thing that will get a wine stain out of carpet is windex.',lie,n
+3_f_l_6,Female,29,'Associates degree',Canada,'If you were to stay in one room per night, it would take one year to stay in every hotel room on walt disney world property.',lie,n
+3_f_l_7,Female,29,'Associates degree',Canada,'Female seahorses carry their young in their pouch for a month before they are born.',lie,n
+4_f_l_1,Female,22,'Bachelors degree',INDIA,'Burj al arab is the words largest building',lie,n
+4_f_l_2,Female,22,'Bachelors degree',INDIA,'The white color elephant chased me to kill',lie,o
+4_f_l_3,Female,22,'Bachelors degree',INDIA,'Quickly but quietly, i tiptoed toward the dark cave which was full of tigers.',lie,o
+4_f_l_4,Female,22,'Bachelors degree',INDIA,'As a cherished gift from my good friend tran, this colorful figure greets me with a smile every time i enter my room.',lie,n
+4_f_l_5,Female,22,'Bachelors degree',INDIA,'The two colors merge in a dark line that runs down the center of the small outfit. surrounding its ankles and disguising its long black shoes are big pink bows.',lie,n
+4_f_l_6,Female,22,'Bachelors degree',INDIA,'The blond wood has been chipped and gouged to gray, particularly where the pick guard fell off years ago.',lie,n
+4_f_l_7,Female,22,'Bachelors degree',INDIA,'My family\'s lines prove that skin color is deceptive and that race is a social, not a biological, construct.',lie,n
+5_f_l_1,Female,35,'Bachelors degree',us,'The sunrise is a beautiful orange.',lie,n
+5_f_l_2,Female,35,'Bachelors degree',us,'My sister has red hair.',lie,n
+5_f_l_3,Female,35,'Bachelors degree',us,'The chair has four legs.',lie,n
+5_f_l_4,Female,35,'Bachelors degree',us,'The apple is a deep red.',lie,n
+5_f_l_5,Female,35,'Bachelors degree',us,'The milk is white.',lie,n
+5_f_l_6,Female,35,'Bachelors degree',us,'The floorboards are a deep brown.',lie,n
+5_f_l_7,Female,35,'Bachelors degree',us,'My car is small and painted red.',lie,n
+6_f_l_1,Female,23,'Bachelors degree',India,'I am a lair',lie,n
+6_f_l_2,Female,23,'Bachelors degree',India,'I am 80 years old',lie,n
+6_f_l_3,Female,23,'Bachelors degree',India,'Serena williams is arrested',lie,n
+6_f_l_4,Female,23,'Bachelors degree',India,'I am impatient',lie,n
+6_f_l_5,Female,23,'Bachelors degree',India,'It is hot outside',lie,n
+6_f_l_6,Female,23,'Bachelors degree',India,'I live in africa',lie,n
+6_f_l_7,Female,23,'Bachelors degree',India,'I have 8 children',lie,n
+7_f_l_1,Female,30,'High School Graduate',Germany,'I am a white, cis and heterosexual person. anything other than that is unacceptable.',lie,o
+7_f_l_2,Female,30,'High School Graduate',Germany,'Clearly, every female creature on this earth should have babies at least once. it is a marvelous experience!',lie,n
+7_f_l_3,Female,30,'High School Graduate',Germany,'Nowadays, sexism doesn\'t exist. same with racism, people really just need to grow a thicker skin!',lie,n
+7_f_l_4,Female,30,'High School Graduate',Germany,'My mother was never there for me when i needed her.',lie,n
+7_f_l_5,Female,30,'High School Graduate',Germany,'My computer is my only friend.',lie,n
+7_f_l_6,Female,30,'High School Graduate',Germany,'I am a virgin and don\'t believe in sex before marriage.',lie,n
+7_f_l_7,Female,30,'High School Graduate',Germany,'Humans themselves are social creatures and need human interaction in order to live.',lie,n
+8_f_l_1,Female,31,'Graduate degree (Masters, Doctorate, etc.)',USA,'I\'m a former fbi agent, so i know how to spot a liar.',lie,n
+8_f_l_2,Female,31,'Graduate degree (Masters, Doctorate, etc.)',USA,'I have never told a lie on the internet, and have no intention of lying to you here.',lie,n
+8_f_l_3,Female,31,'Graduate degree (Masters, Doctorate, etc.)',USA,'I have lived in miami for seven years.',lie,n
+8_f_l_4,Female,31,'Graduate degree (Masters, Doctorate, etc.)',USA,'I was raised in the catholic faith, and still attend mass every sunday.',lie,n
+8_f_l_5,Female,31,'Graduate degree (Masters, Doctorate, etc.)',USA,'I\'m a proud member of occupy wall street, and i believe all financial institutions should be nationalized.',lie,n
+8_f_l_6,Female,31,'Graduate degree (Masters, Doctorate, etc.)',USA,'I voted for barack obama twice.',lie,n
+8_f_l_7,Female,31,'Graduate degree (Masters, Doctorate, etc.)',USA,'I graduated from community college last year.',lie,n
+9_f_l_1,Female,43,'High School Graduate',USA,'I love to eat seafood.',lie,n
+9_f_l_2,Female,43,'High School Graduate',USA,'I am training for a marathon.',lie,n
+9_f_l_3,Female,43,'High School Graduate',USA,'I climbed mount everest last year.',lie,o
+9_f_l_4,Female,43,'High School Graduate',USA,'I am married to a rich man.',lie,n
+9_f_l_5,Female,43,'High School Graduate',USA,'I have one infant son.',lie,n
+9_f_l_6,Female,43,'High School Graduate',USA,'I live in a tropical climate.',lie,n
+9_f_l_7,Female,43,'High School Graduate',USA,'My only sister has a different father than i do.',lie,o
+10_f_l_1,Female,35,'Bachelors degree','United States','Many famous writers live in bloomsburg, pa.',lie,n
+10_f_l_2,Female,35,'Bachelors degree','United States','Wilson college has many jewish students.',lie,n
+10_f_l_3,Female,35,'Bachelors degree','United States','Burlington, vt has a large egyptian population.',lie,n
+10_f_l_4,Female,35,'Bachelors degree','United States','Boston has seen a rapid increase in teen mothers.',lie,n
+10_f_l_5,Female,35,'Bachelors degree','United States','Detroit has just been named one of the best places to live.',lie,n
+10_f_l_6,Female,35,'Bachelors degree','United States','Chicago has become a top choice for cat owners.',lie,n
+10_f_l_7,Female,35,'Bachelors degree','United States','Stephen king calls harrisburg, pa home.',lie,n
+11_f_l_1,Female,50,'Graduate degree (Masters, Doctorate, etc.)',USA,'John travolta had an affair with jennifer aniston.',lie,n
+11_f_l_2,Female,50,'Graduate degree (Masters, Doctorate, etc.)',USA,'Barack obama has been trafficking guns into mexico with the aid of eric holder.',lie,o
+11_f_l_3,Female,50,'Graduate degree (Masters, Doctorate, etc.)',USA,'The weather in san diego will be worse than usual, and there might even be a little snow.',lie,n
+11_f_l_4,Female,50,'Graduate degree (Masters, Doctorate, etc.)',USA,'Nicotine may have health benefits that have not been acknowledged before.',lie,n
+11_f_l_5,Female,50,'Graduate degree (Masters, Doctorate, etc.)',USA,'Research scientists are very close to finding a cure for cancer.',lie,o
+11_f_l_6,Female,50,'Graduate degree (Masters, Doctorate, etc.)',USA,'The worst kind of artificial sweetener is actually made of natural substances.',lie,o
+11_f_l_7,Female,50,'Graduate degree (Masters, Doctorate, etc.)',USA,'The bison will be extinct within five years time.',lie,n
+12_f_l_1,Female,53,'Associates degree',US,'Aliens have just invaded the united states of america.',lie,o
+12_f_l_2,Female,53,'Associates degree',US,'President obama and his wife michelle have just filed for divorce in the chicago, illinois.',lie,o
+12_f_l_3,Female,53,'Associates degree',US,'David letterman has announced that after his retirement from cbs, he will run for mayor in fargo, north dakota.',lie,o
+12_f_l_4,Female,53,'Associates degree',US,'This morning, i had a delicious breakfast of eggs, ham and biscuits with honey.',lie,n
+12_f_l_5,Female,53,'Associates degree',US,'I am a double amputee who served in iraq.',lie,n
+12_f_l_6,Female,53,'Associates degree',US,'My parents were immigrants to the united states from pakistan.',lie,n
+12_f_l_7,Female,53,'Associates degree',US,'I live in a mansion in beverly hills, california which has two indoor swimming pools.',lie,n
+13_f_l_1,Female,49,'Bachelors degree','United States of America','I lived in italy the first 20 years of my life.',lie,n
+13_f_l_2,Female,49,'Bachelors degree','United States of America','My head is shaved bald.',lie,n
+13_f_l_3,Female,49,'Bachelors degree','United States of America','I was married six times.',lie,o
+13_f_l_4,Female,49,'Bachelors degree','United States of America','My cat weights 9 pounds.',lie,n
+13_f_l_5,Female,49,'Bachelors degree','United States of America','I have a degree in technical writing.',lie,n
+13_f_l_6,Female,49,'Bachelors degree','United States of America','My townhouse is crowded with furniture.',lie,n
+13_f_l_7,Female,49,'Bachelors degree','United States of America','I ate a tasty steak today.',lie,n
+14_f_l_1,Female,43,'Graduate degree (Masters, Doctorate, etc.)',USA,'The earth orbits the moon.',lie,o
+14_f_l_2,Female,43,'Graduate degree (Masters, Doctorate, etc.)',USA,'The first president of the united states was thomas jefferson.',lie,o
+14_f_l_3,Female,43,'Graduate degree (Masters, Doctorate, etc.)',USA,'Computers were invented in 1924.',lie,n
+14_f_l_4,Female,43,'Graduate degree (Masters, Doctorate, etc.)',USA,'All horses, like all cows, have four stomachs.',lie,o
+14_f_l_5,Female,43,'Graduate degree (Masters, Doctorate, etc.)',USA,'Newborn babies grow best when they are fed pizza.',lie,o
+14_f_l_6,Female,43,'Graduate degree (Masters, Doctorate, etc.)',USA,'Many people cannot tolerate living in the sahara due to the recurrent flooding.',lie,o
+14_f_l_7,Female,43,'Graduate degree (Masters, Doctorate, etc.)',USA,'People who are ambidextrous can remember everything they have ever seen with amazing accuracy.',lie,o
+15_f_l_1,Female,46,'Some college, no degree',USA,'Everyone loves brussel sprouts - no exceptions.',lie,o
+15_f_l_2,Female,46,'Some college, no degree',USA,'The sky is green.',lie,o
+15_f_l_3,Female,46,'Some college, no degree',USA,'Politicians always tell the truth.',lie,o
+15_f_l_4,Female,46,'Some college, no degree',USA,'Religious leaders are always honorable.',lie,o
+15_f_l_5,Female,46,'Some college, no degree',USA,'All mammals lay eggs.',lie,o
+15_f_l_6,Female,46,'Some college, no degree',USA,'Government regulations are always safe and secure.',lie,n
+15_f_l_7,Female,46,'Some college, no degree',USA,'Fox news presents fair reporting by showing both sides of arguments.',lie,n
+16_f_l_1,Female,40,'Bachelors degree',USA,'The mail did not come today.',lie,n
+16_f_l_2,Female,40,'Bachelors degree',USA,'This coffee tastes great!',lie,n
+16_f_l_3,Female,40,'Bachelors degree',USA,'He is such a nice person.',lie,n
+16_f_l_4,Female,40,'Bachelors degree',USA,'I ate all my dinner!',lie,n
+16_f_l_5,Female,40,'Bachelors degree',USA,'That dress looks great on you.',lie,n
+16_f_l_6,Female,40,'Bachelors degree',USA,'I love your new hair color.',lie,n
+16_f_l_7,Female,40,'Bachelors degree',USA,'No, you are not getting fat.',lie,n
+17_f_l_1,Female,35,'Graduate degree (Masters, Doctorate, etc.)',USA,'There are lizards in the fridge.',lie,o
+17_f_l_2,Female,35,'Graduate degree (Masters, Doctorate, etc.)',USA,'Sometimes i wish i was able to sing opera.',lie,n
+17_f_l_3,Female,35,'Graduate degree (Masters, Doctorate, etc.)',USA,'I saw liza manelli at kroger the other day, she was buying kleenex and oranges.',lie,o
+17_f_l_4,Female,35,'Graduate degree (Masters, Doctorate, etc.)',USA,'Did you know that scientists have just discovered that 28\% of all humans alive today have a \'floating\' rib?',lie,o
+17_f_l_5,Female,35,'Graduate degree (Masters, Doctorate, etc.)',USA,'There is nothing wrong with stealing cars once in a while.',lie,o
+17_f_l_6,Female,35,'Graduate degree (Masters, Doctorate, etc.)',USA,'People love my doritos encrusted brussle sprout cake!',lie,n
+17_f_l_7,Female,35,'Graduate degree (Masters, Doctorate, etc.)',USA,'I know six people who have pulled out their own wisdom teeth with a pair of pliers, they all worked out great!',lie,n
+18_f_l_1,Female,25,'Bachelors degree',USA,'I know how to skateboard.',lie,n
+18_f_l_2,Female,25,'Bachelors degree',USA,'I have been skydiving before.',lie,n
+18_f_l_3,Female,25,'Bachelors degree',USA,'I like broccoli.',lie,n
+18_f_l_4,Female,25,'Bachelors degree',USA,'I own a black purse.',lie,n
+18_f_l_5,Female,25,'Bachelors degree',USA,'My favorite shoes to wear are heels.',lie,n
+18_f_l_6,Female,25,'Bachelors degree',USA,'My husband enjoys running.',lie,n
+18_f_l_7,Female,25,'Bachelors degree',USA,'My dog, flop, sheds.',lie,n
+19_f_l_1,Female,42,'Some college, no degree',USA,'The weather in colorado is causing an unusually large amount of ticks to relocate into the cities.',lie,n
+19_f_l_2,Female,42,'Some college, no degree',USA,'The earthquakes in yellowstone national park have been showing regular patterns that scientists are covering up in order to reduce fear about a coming super volcano eruption.',lie,o
+19_f_l_3,Female,42,'Some college, no degree',USA,'The recent recalls by toyota are secretly being used by them to draw attention to and advertise their products.',lie,n
+19_f_l_4,Female,42,'Some college, no degree',USA,'President obama has a mistress in japan.',lie,o
+19_f_l_5,Female,42,'Some college, no degree',USA,'The elementary school nearby is having an outbreak of measles.',lie,n
+19_f_l_6,Female,42,'Some college, no degree',USA,'The car accident at the corner was a result of both drivers texting while attempting to go through the stop sign.',lie,n
+19_f_l_7,Female,42,'Some college, no degree',USA,'The state of ohio has a secret society group with only amish members.',lie,n
+20_f_l_1,Female,53,'Bachelors degree',usa,'I can\'t go somewhere with you because i am sick.',lie,n
+20_f_l_2,Female,53,'Bachelors degree',usa,'I like the outfit you are wearing.',lie,n
+20_f_l_3,Female,53,'Bachelors degree',usa,'Your new haircut looks really nice.',lie,n
+20_f_l_4,Female,53,'Bachelors degree',usa,'I bought this gift for you. (recycled gift)',lie,n
+20_f_l_5,Female,53,'Bachelors degree',usa,'Your kids behaved while i watched them.',lie,n
+20_f_l_6,Female,53,'Bachelors degree',usa,'I made this recipe from scratch.',lie,n
+20_f_l_7,Female,53,'Bachelors degree',usa,'I thought about you a lot while you were gone.',lie,n
+21_f_l_1,Female,25,'Bachelors degree',India,'I slept for 20 hours',lie,o
+21_f_l_2,Female,25,'Bachelors degree',India,'I earn 1 million a day',lie,o
+21_f_l_3,Female,25,'Bachelors degree',India,'I weight 45 pounds',lie,n
+21_f_l_4,Female,25,'Bachelors degree',India,'I did not go to office today',lie,n
+21_f_l_5,Female,25,'Bachelors degree',India,'My mom is tall',lie,n
+21_f_l_6,Female,25,'Bachelors degree',India,'My hair is two metres long',lie,o
+21_f_l_7,Female,25,'Bachelors degree',India,'Dog gave birth to four twins',lie,o
+22_f_l_1,Female,30,'Some college, no degree','United states of America','Elvis was known for his love of clown figurines',lie,n
+22_f_l_2,Female,30,'Some college, no degree','United states of America','Cats have a weak sense of smell',lie,n
+22_f_l_3,Female,30,'Some college, no degree','United states of America','There are 29 hours in one day',lie,o
+22_f_l_4,Female,30,'Some college, no degree','United states of America','The titanic sank in november.',lie,n
+22_f_l_5,Female,30,'Some college, no degree','United states of America','The color red is made by mixing blue with yellow.',lie,n
+22_f_l_6,Female,30,'Some college, no degree','United states of America','The astrology cycle begins with cancer',lie,n
+22_f_l_7,Female,30,'Some college, no degree','United states of America','Alligators are mammals.',lie,o
+23_f_l_1,Female,48,'High School Graduate',USA,'I have don\'t have a huge house in florida',lie,n
+23_f_l_2,Female,48,'High School Graduate',USA,'I don\'t have any one in new york.',lie,n
+23_f_l_3,Female,48,'High School Graduate',USA,'I do not love shopping very much.',lie,n
+23_f_l_4,Female,48,'High School Graduate',USA,'I never went to new york.',lie,n
+23_f_l_5,Female,48,'High School Graduate',USA,'My home town is florida.',lie,o
+23_f_l_6,Female,48,'High School Graduate',USA,'All my neighbors don\'t have dogs or cat.',lie,n
+23_f_l_7,Female,48,'High School Graduate',USA,'Collage was not very much fun.',lie,n
+24_f_l_1,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'The best film ever made was ishtar; you\'ll love it.',lie,n
+24_f_l_2,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'I ran three half-marathons last year and want to run a full one soon.',lie,n
+24_f_l_3,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'We went into iraq because weapons of mass destruction were everywhere.',lie,n
+24_f_l_4,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'The republican party is becoming more and more centrist these days.',lie,n
+24_f_l_5,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'When i travel to europe i always take a private jet.',lie,o
+24_f_l_6,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'Human resources departments are increasingly winnowing applicants by face-to-face interviews.',lie,n
+24_f_l_7,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'Climate change is a myth.',lie,o
+25_f_l_1,Female,59,'Bachelors degree','United Kingdom','It is rare for it to rain in the uk.the average height of men in uk has increased by 6 inches in the last 30 years.',lie,o
+25_f_l_2,Female,59,'Bachelors degree','United Kingdom','The most popular name for girls is alice.',lie,n
+25_f_l_3,Female,59,'Bachelors degree','United Kingdom','Everyone agrees that freud was the most perceptive psychologist.',lie,n
+25_f_l_4,Female,59,'Bachelors degree','United Kingdom','Baked alaska is the least liked pudding on the menu.pancakes are made with self-raising flour.',lie,o
+25_f_l_5,Female,59,'Bachelors degree','United Kingdom','Phone boxes in the uk are painted green.',lie,n
+25_f_l_6,Female,59,'Bachelors degree','United Kingdom','Nobody fiddles their tax returns.',lie,n
+25_f_l_7,Female,59,'Bachelors degree','United Kingdom','The average age at marriage is 23 for men in the uk.',lie,n
+26_f_l_1,Female,28,'Bachelors degree',USA,'I was born in the state of alabama.',lie,n
+26_f_l_2,Female,28,'Bachelors degree',USA,'Luke skywalker is a character from the \"harry potter\" book series.',lie,o
+26_f_l_3,Female,28,'Bachelors degree',USA,'Barack obama is the 35th president of the united states.',lie,n
+26_f_l_4,Female,28,'Bachelors degree',USA,'A pittbull is a type of reptile.',lie,o
+26_f_l_5,Female,28,'Bachelors degree',USA,'Rock-and-roll musician elvis prestley was born in the year 1965.',lie,n
+26_f_l_6,Female,28,'Bachelors degree',USA,'The sun is considered one of the eight planets in our solar system.',lie,o
+26_f_l_7,Female,28,'Bachelors degree',USA,'The famous artist, pablo picasso, is best known for his painting entitled \"starry night\".',lie,n
+27_f_l_1,Female,44,'Graduate degree (Masters, Doctorate, etc.)','United States','I have brown hair.',lie,n
+27_f_l_2,Female,44,'Graduate degree (Masters, Doctorate, etc.)','United States','I am 6 feet tall.',lie,n
+27_f_l_3,Female,44,'Graduate degree (Masters, Doctorate, etc.)','United States','I have 8 kids.',lie,n
+27_f_l_4,Female,44,'Graduate degree (Masters, Doctorate, etc.)','United States','I hate dogs.',lie,n
+27_f_l_5,Female,44,'Graduate degree (Masters, Doctorate, etc.)','United States','I live in austin.',lie,n
+27_f_l_6,Female,44,'Graduate degree (Masters, Doctorate, etc.)','United States','My dad is gay.',lie,n
+27_f_l_7,Female,44,'Graduate degree (Masters, Doctorate, etc.)','United States','It is snowing.',lie,n
+28_f_l_1,Female,28,'Some High School',india,'A woman has 4 legs',lie,o
+28_f_l_2,Female,28,'Some High School',india,'The sunrise at afternoon',lie,o
+28_f_l_3,Female,28,'Some High School',india,'World is square shape',lie,o
+28_f_l_4,Female,28,'Some High School',india,'Bird has flying in float',lie,n
+28_f_l_5,Female,28,'Some High School',india,'Sky color is red',lie,o
+28_f_l_6,Female,28,'Some High School',india,'Sun is very dim',lie,o
+28_f_l_7,Female,28,'Some High School',india,'Actress is man',lie,o
+29_f_l_1,Female,34,'Bachelors degree','United States','Barack obama is a white woman.',lie,o
+29_f_l_2,Female,34,'Bachelors degree','United States','I ate cereal for breakfast today.',lie,n
+29_f_l_3,Female,34,'Bachelors degree','United States','There is a blanket next to me.',lie,n
+29_f_l_4,Female,34,'Bachelors degree','United States','There is a snake in my boot.',lie,n
+29_f_l_5,Female,34,'Bachelors degree','United States','Amazon mechanical turk was invented by a russian man.',lie,n
+29_f_l_6,Female,34,'Bachelors degree','United States','Albert einstein died at the age of 61.',lie,n
+29_f_l_7,Female,34,'Bachelors degree','United States','I am 19 years old.',lie,n
+30_f_l_1,Female,60,'Bachelors degree',US,'Eating a lot of sugar is good for your teeth.',lie,o
+30_f_l_2,Female,60,'Bachelors degree',US,'Drinking vinegar every day will cure cancer.',lie,o
+30_f_l_3,Female,60,'Bachelors degree',US,'You can tell what sex a baby will be by how low the mother is \"carrying\".',lie,n
+30_f_l_4,Female,60,'Bachelors degree',US,'All cats love to swim.',lie,o
+30_f_l_5,Female,60,'Bachelors degree',US,'People can breathe underwater.',lie,o
+30_f_l_6,Female,60,'Bachelors degree',US,'If you mix red and blue paint, you will get orange.',lie,n
+30_f_l_7,Female,60,'Bachelors degree',US,'Every woman wants to have children.',lie,o
+31_f_l_1,Female,21,'Some college, no degree',USA,'My cat has a heart spot on her side.',lie,n
+31_f_l_2,Female,21,'Some college, no degree',USA,'My house is 3 stories tall.',lie,n
+31_f_l_3,Female,21,'Some college, no degree',USA,'Clownfish can survive in a fishbowl.',lie,n
+31_f_l_4,Female,21,'Some college, no degree',USA,'Tomatoes are poisonous in large quantities.',lie,o
+31_f_l_5,Female,21,'Some college, no degree',USA,'All life needs light to survive.',lie,n
+31_f_l_6,Female,21,'Some college, no degree',USA,'The moon landing was a hoax.',lie,o
+31_f_l_7,Female,21,'Some college, no degree',USA,'Alcohol is a super-food and you should consume copious amounts of it.',lie,o
+32_f_l_1,Female,28,'Bachelors degree','United States','All dogs love spinach.',lie,o
+32_f_l_2,Female,28,'Bachelors degree','United States','A blue whale only eats squid.',lie,o
+32_f_l_3,Female,28,'Bachelors degree','United States','Horses can run faster than cheetahs.',lie,o
+32_f_l_4,Female,28,'Bachelors degree','United States','Cats should only drink milk.',lie,n
+32_f_l_5,Female,28,'Bachelors degree','United States','Butterflies live for approximately 8 years.',lie,o
+32_f_l_6,Female,28,'Bachelors degree','United States','Spiders only eat flowers.',lie,o
+32_f_l_7,Female,28,'Bachelors degree','United States','Birds only fly at night.',lie,o
+33_f_l_1,Female,31,'Bachelors degree','st lucia','There are no clouds in the sky today.',lie,n
+33_f_l_2,Female,31,'Bachelors degree','st lucia','Ripe bananas are poisonous if you eat more than two at a time.',lie,o
+33_f_l_3,Female,31,'Bachelors degree','st lucia','There will be an earthquake in alaska tomorrow.',lie,n
+33_f_l_4,Female,31,'Bachelors degree','st lucia','Cars run faster when the back bumper is shined.',lie,o
+33_f_l_5,Female,31,'Bachelors degree','st lucia','Drinking pure rainwater is beneficial to health.',lie,n
+33_f_l_6,Female,31,'Bachelors degree','st lucia','Mermaids used to exist on earth until they went to live on another planet.',lie,o
+33_f_l_7,Female,31,'Bachelors degree','st lucia','Cockroaches prefer samba music to jazz.',lie,o
+34_f_l_1,Female,38,'Bachelors degree',France,'George rr martin\'s next novel will be released in 2015.',lie,n
+34_f_l_2,Female,38,'Bachelors degree',France,'Kim kardashian is a thin and classy woman.',lie,n
+34_f_l_3,Female,38,'Bachelors degree',France,'Britney spears has a very beautiful voice without autotune.',lie,n
+34_f_l_4,Female,38,'Bachelors degree',France,'The economical situation in europe is excellent.',lie,n
+34_f_l_5,Female,38,'Bachelors degree',France,'A mission to mars is scheduled in 2017.',lie,n
+34_f_l_6,Female,38,'Bachelors degree',France,'France is a monarchy.',lie,n
+34_f_l_7,Female,38,'Bachelors degree',France,'Human rights are very important in north-korea.',lie,n
+35_f_l_1,Female,45,'Graduate degree (Masters, Doctorate, etc.)',USA,'I have five sons.',lie,n
+35_f_l_2,Female,45,'Graduate degree (Masters, Doctorate, etc.)',USA,'I live in england.',lie,n
+35_f_l_3,Female,45,'Graduate degree (Masters, Doctorate, etc.)',USA,'Barack obama is divorced.',lie,n
+35_f_l_4,Female,45,'Graduate degree (Masters, Doctorate, etc.)',USA,'I own a cat.',lie,n
+35_f_l_5,Female,45,'Graduate degree (Masters, Doctorate, etc.)',USA,'More people live in the us than live in india.',lie,n
+35_f_l_6,Female,45,'Graduate degree (Masters, Doctorate, etc.)',USA,'I am thin.',lie,n
+35_f_l_7,Female,45,'Graduate degree (Masters, Doctorate, etc.)',USA,'My parents are dead.',lie,n
+36_f_l_1,Female,26,'Bachelors degree',USA,'I had cosmetic surgery before i met my husband and never told him.',lie,n
+36_f_l_2,Female,26,'Bachelors degree',USA,'I moved to this country to escape media attention in my homeland.',lie,n
+36_f_l_3,Female,26,'Bachelors degree',USA,'I live off of onions and honey.',lie,o
+36_f_l_4,Female,26,'Bachelors degree',USA,'I am a compulsive shopper.',lie,n
+36_f_l_5,Female,26,'Bachelors degree',USA,'I am a triplet.',lie,n
+36_f_l_6,Female,26,'Bachelors degree',USA,'I don\'t know how to whistle.',lie,n
+36_f_l_7,Female,26,'Bachelors degree',USA,'I have a tattoo of a dragon on my left arm.',lie,n
+37_f_l_1,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'I could become a great athlete.',lie,n
+37_f_l_2,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'I can give birth.',lie,n
+37_f_l_3,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'Phones can be deadly weapons.',lie,o
+37_f_l_4,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'Cereal tastes like cardboard.',lie,n
+37_f_l_5,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'Paper can be eaten.',lie,n
+37_f_l_6,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'You can drink ocean water.',lie,n
+37_f_l_7,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'We can play with jellyfish.',lie,n
+38_f_l_1,Female,52,'Graduate degree (Masters, Doctorate, etc.)',USA,'I have a white dog.',lie,n
+38_f_l_2,Female,52,'Graduate degree (Masters, Doctorate, etc.)',USA,'My dog is named fido.',lie,n
+38_f_l_3,Female,52,'Graduate degree (Masters, Doctorate, etc.)',USA,'We own a red car.',lie,n
+38_f_l_4,Female,52,'Graduate degree (Masters, Doctorate, etc.)',USA,'I like bananas.',lie,n
+38_f_l_5,Female,52,'Graduate degree (Masters, Doctorate, etc.)',USA,'I sell eggplant.',lie,n
+38_f_l_6,Female,52,'Graduate degree (Masters, Doctorate, etc.)',USA,'Our house is purple.',lie,n
+38_f_l_7,Female,52,'Graduate degree (Masters, Doctorate, etc.)',USA,'I like bluegrass music.',lie,n
+39_f_l_1,Female,26,'High School Graduate',U.S.,'Msg is healthy.',lie,n
+39_f_l_2,Female,26,'High School Graduate',U.S.,'Five quarters make one dollar.',lie,o
+39_f_l_3,Female,26,'High School Graduate',U.S.,'Horses are carnivorous.',lie,n
+39_f_l_4,Female,26,'High School Graduate',U.S.,'Dental care isn\'t important.',lie,n
+39_f_l_5,Female,26,'High School Graduate',U.S.,'Blue roses occur naturally.',lie,o
+39_f_l_6,Female,26,'High School Graduate',U.S.,'Fish can survive out of water for a long time.',lie,o
+39_f_l_7,Female,26,'High School Graduate',U.S.,'Snakes are amphibians.',lie,n
+40_f_l_1,Female,41,'Graduate degree (Masters, Doctorate, etc.)',USA,'We guarantee our product is the best in the world.',lie,o
+40_f_l_2,Female,41,'Graduate degree (Masters, Doctorate, etc.)',USA,'We guarantee that you have never tasted anything more delicious.',lie,o
+40_f_l_3,Female,41,'Graduate degree (Masters, Doctorate, etc.)',USA,'We provide out-of-the-box thinking.',lie,n
+40_f_l_4,Female,41,'Graduate degree (Masters, Doctorate, etc.)',USA,'We are the industry leader.',lie,n
+40_f_l_5,Female,41,'Graduate degree (Masters, Doctorate, etc.)',USA,'We raise the bar for our competitors.',lie,n
+40_f_l_6,Female,41,'Graduate degree (Masters, Doctorate, etc.)',USA,'We adhere to our company\'s best practices.',lie,n
+40_f_l_7,Female,41,'Graduate degree (Masters, Doctorate, etc.)',USA,'This is a one-day only sale.',lie,n
+41_f_l_1,Female,48,'Some college, no degree','United States','I grew up in the foster care system, moving from family to family, never having a true home.',lie,n
+41_f_l_2,Female,48,'Some college, no degree','United States','My grandparents were holocaust survivors in poland.',lie,n
+41_f_l_3,Female,48,'Some college, no degree','United States','I have skydived extensively, jumping at least 20 to 30 times a year.',lie,n
+41_f_l_4,Female,48,'Some college, no degree','United States','I worked at enron and knew all the scams going down, yet didn\'t say a word.',lie,n
+41_f_l_5,Female,48,'Some college, no degree','United States','I have never had any pets, i\'m not interested in animals.',lie,n
+41_f_l_6,Female,48,'Some college, no degree','United States','Most people go shopping for shoes on a daily basis, i know this because i\'m one of them.',lie,o
+41_f_l_7,Female,48,'Some college, no degree','United States','I\'ve never owned a cell phone in my life!',lie,n
+42_f_l_1,Female,58,'Graduate degree (Masters, Doctorate, etc.)',USA,'I will go to france this year for vacation.',lie,n
+42_f_l_2,Female,58,'Graduate degree (Masters, Doctorate, etc.)',USA,'I own a condo in colorado.',lie,n
+42_f_l_3,Female,58,'Graduate degree (Masters, Doctorate, etc.)',USA,'My home is worth one million dollars.',lie,o
+42_f_l_4,Female,58,'Graduate degree (Masters, Doctorate, etc.)',USA,'I have to go to work tomorrow.',lie,n
+42_f_l_5,Female,58,'Graduate degree (Masters, Doctorate, etc.)',USA,'My favorite color is purple.',lie,n
+42_f_l_6,Female,58,'Graduate degree (Masters, Doctorate, etc.)',USA,'I have two granddaughters.',lie,n
+42_f_l_7,Female,58,'Graduate degree (Masters, Doctorate, etc.)',USA,'I was born in michigan.',lie,n
+43_f_l_1,Female,22,'Bachelors degree',USA,'My mother is from bosnia.',lie,n
+43_f_l_2,Female,22,'Bachelors degree',USA,'I had a great steak for dinner last night.',lie,n
+43_f_l_3,Female,22,'Bachelors degree',USA,'I got my undergraduate degree at princeton.',lie,n
+43_f_l_4,Female,22,'Bachelors degree',USA,'My first pet was a blue parakeet.',lie,n
+43_f_l_5,Female,22,'Bachelors degree',USA,'I am fluent in spanish.',lie,n
+43_f_l_6,Female,22,'Bachelors degree',USA,'My sister plays the violin.',lie,n
+43_f_l_7,Female,22,'Bachelors degree',USA,'I taught english in south korea for 3 years.',lie,n
+44_f_l_1,Female,24,'Bachelors degree','United States','I have 7 cats.',lie,n
+44_f_l_2,Female,24,'Bachelors degree','United States','Pluto is a planet.',lie,n
+44_f_l_3,Female,24,'Bachelors degree','United States','There is a walmart in every country in the world.',lie,o
+44_f_l_4,Female,24,'Bachelors degree','United States','I speak 3 languages fluently.',lie,n
+44_f_l_5,Female,24,'Bachelors degree','United States','Nurses must have a bachelor\'s degree.',lie,n
+44_f_l_6,Female,24,'Bachelors degree','United States','I have 5 brothers',lie,n
+44_f_l_7,Female,24,'Bachelors degree','United States','There is life on mars.',lie,n
+45_f_l_1,Female,55,'Some High School','United States of America','Jury selection is always based on first-come, first-served.',lie,n
+45_f_l_2,Female,55,'Some High School','United States of America','Hidden valuables are always in underwear drawers.',lie,o
+45_f_l_3,Female,55,'Some High School','United States of America','People on diets have happy dispositions.',lie,n
+45_f_l_4,Female,55,'Some High School','United States of America','A good marriage takes no work and no effort.',lie,o
+45_f_l_5,Female,55,'Some High School','United States of America','A beer-based alcoholic beverage is best served warm.',lie,n
+45_f_l_6,Female,55,'Some High School','United States of America','New york city is never over-crowded or noisy.',lie,o
+45_f_l_7,Female,55,'Some High School','United States of America','Commercialism brings out the best in people, especially on black friday.',lie,n
+46_f_l_1,Female,52,'Some college, no degree','United States','I voted for george bush.',lie,n
+46_f_l_2,Female,52,'Some college, no degree','United States','My car doesn\'t need washed.',lie,n
+46_f_l_3,Female,52,'Some college, no degree','United States','My boss is having an affair.',lie,n
+46_f_l_4,Female,52,'Some college, no degree','United States','Its raining outside.',lie,n
+46_f_l_5,Female,52,'Some college, no degree','United States','My dog is going to have puppies.',lie,n
+46_f_l_6,Female,52,'Some college, no degree','United States','The grass is 8 inches high.',lie,n
+46_f_l_7,Female,52,'Some college, no degree','United States','I\'m having steak for dinner tomorrow.',lie,n
+47_f_l_1,Female,51,'Bachelors degree',US,'You can fold a single piece of paper in half 20 times.',lie,n
+47_f_l_2,Female,51,'Bachelors degree',US,'Bears hibernate in the winter because it\'s cold.',lie,n
+47_f_l_3,Female,51,'Bachelors degree',US,'Men in the united states have a greater life expectancy than women in iceland.',lie,n
+47_f_l_4,Female,51,'Bachelors degree',US,'Hairspray will remove ink stains.',lie,n
+47_f_l_5,Female,51,'Bachelors degree',US,'Kevin bacon has more acting credits than david tennant.',lie,n
+47_f_l_6,Female,51,'Bachelors degree',US,'Dialing the prefix 555 will automatically get you connected to emergency services.',lie,o
+47_f_l_7,Female,51,'Bachelors degree',US,'In a study in scarlet, sherlock holmes said, elementary, my dear watson.',lie,n
+48_f_l_1,Female,66,'Graduate degree (Masters, Doctorate, etc.)','United States','I barely made it through grad school.',lie,n
+48_f_l_2,Female,66,'Graduate degree (Masters, Doctorate, etc.)','United States','I was inept at my last job in administration.',lie,n
+48_f_l_3,Female,66,'Graduate degree (Masters, Doctorate, etc.)','United States','I agree with my alabama neighbors on most social and political issues.',lie,n
+48_f_l_4,Female,66,'Graduate degree (Masters, Doctorate, etc.)','United States','I have found many good friends here in alabama.',lie,n
+48_f_l_5,Female,66,'Graduate degree (Masters, Doctorate, etc.)','United States','Since i retired i have remained close with my colleagues.',lie,n
+48_f_l_6,Female,66,'Graduate degree (Masters, Doctorate, etc.)','United States','To my surprise, i hardly ever think of my last romantic interest.',lie,n
+48_f_l_7,Female,66,'Graduate degree (Masters, Doctorate, etc.)','United States','I have completely enjoyed having my daughter and her four kids with me for the past year.',lie,n
+49_f_l_1,Female,29,'Bachelors degree',Belize,'Humans are the most intelligent creatures on earth.',lie,n
+49_f_l_2,Female,29,'Bachelors degree',Belize,'Mankind will self-destruct by 2020.',lie,n
+49_f_l_3,Female,29,'Bachelors degree',Belize,'Antartica and the artic will one day join each other.',lie,n
+49_f_l_4,Female,29,'Bachelors degree',Belize,'Fathers tend to be more nurturing than mothers.',lie,n
+49_f_l_5,Female,29,'Bachelors degree',Belize,'The earth will outlive the sun.',lie,n
+49_f_l_6,Female,29,'Bachelors degree',Belize,'Robots will one day destroy mankind.',lie,n
+49_f_l_7,Female,29,'Bachelors degree',Belize,'The internet tends to be more factual than encyclopaedias.',lie,n
+50_f_l_1,Female,30,'Bachelors degree','United States','My hair is blonde.',lie,n
+50_f_l_2,Female,30,'Bachelors degree','United States','I would like to keep a bird in a cage as a pet.',lie,n
+50_f_l_3,Female,30,'Bachelors degree','United States','It is always easy for me to fall asleep.',lie,n
+50_f_l_4,Female,30,'Bachelors degree','United States','I have never been in love.',lie,n
+50_f_l_5,Female,30,'Bachelors degree','United States','I will answer any question without blushing.',lie,n
+50_f_l_6,Female,30,'Bachelors degree','United States','My mother\'s name is sylvia.',lie,n
+50_f_l_7,Female,30,'Bachelors degree','United States','I am an only child.',lie,n
+51_f_l_1,Female,25,'Bachelors degree',USA,'Andrew jackson is the president on the united states fifty dollar bill.',lie,o
+51_f_l_2,Female,25,'Bachelors degree',USA,'The main color of the hero\'s tunic from the legend of zelda series is blue.',lie,n
+51_f_l_3,Female,25,'Bachelors degree',USA,'Blondes have more fun.',lie,n
+51_f_l_4,Female,25,'Bachelors degree',USA,'The current mississippi congressman is a democrat.',lie,n
+51_f_l_5,Female,25,'Bachelors degree',USA,'Most authors write in the nude.',lie,o
+51_f_l_6,Female,25,'Bachelors degree',USA,'Steven spielberg is the creator of the star wars universe.',lie,n
+51_f_l_7,Female,25,'Bachelors degree',USA,'Siamese cats are the most popular breed in the u.s.',lie,o
+52_f_l_1,Female,54,'High School Graduate',USA,'I really hate ice cream and it don\'t matter what flavor either.',lie,n
+52_f_l_2,Female,54,'High School Graduate',USA,'Working these type hits are always easier than i think they will be.',lie,n
+52_f_l_3,Female,54,'High School Graduate',USA,'I am smoking a cigarette right now.',lie,n
+52_f_l_4,Female,54,'High School Graduate',USA,'One time i met a person who only ate sunflower seeds and nothing else.',lie,o
+52_f_l_5,Female,54,'High School Graduate',USA,'My computer is cutting edge and is fast as lightning.',lie,n
+52_f_l_6,Female,54,'High School Graduate',USA,'I have three dogs who each have only three legs and four cats with four legs.',lie,o
+52_f_l_7,Female,54,'High School Graduate',USA,'I squeezed 16 ounces of juice out of one orange yesterday.',lie,n
+53_f_l_1,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States. United States.','This morning i ran three miles around the lake.',lie,n
+53_f_l_2,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States. United States.','I love to eat hot dogs cooked on the grill.',lie,n
+53_f_l_3,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States. United States.','My home is spotless today.',lie,n
+53_f_l_4,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States. United States.','I took a very long and relaxing shower this morning and now i feel wonderful.',lie,n
+53_f_l_5,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States. United States.','I just killed a larger spider that was running across my floor.',lie,n
+53_f_l_6,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States. United States.','I made my bed this morning, did a load of laundry and emptied the dishwasher.',lie,n
+53_f_l_7,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States. United States.','I always pay my bills on time and i never miss a deadline.',lie,n
+54_f_l_1,Female,64,'Graduate degree (Masters, Doctorate, etc.)','United States','All rodents are pack animals.',lie,n
+54_f_l_2,Female,64,'Graduate degree (Masters, Doctorate, etc.)','United States','All psychological disorders lead to an early death.',lie,o
+54_f_l_3,Female,64,'Graduate degree (Masters, Doctorate, etc.)','United States','It is possible today with modern medicine to prevent all colds and flu.',lie,o
+54_f_l_4,Female,64,'Graduate degree (Masters, Doctorate, etc.)','United States','Cats see best in the middle of the night.',lie,o
+54_f_l_5,Female,64,'Graduate degree (Masters, Doctorate, etc.)','United States','Pasteurized milk is healthier than raw milk.',lie,n
+54_f_l_6,Female,64,'Graduate degree (Masters, Doctorate, etc.)','United States','Everyone can lose weight with healthy diet and exercise.',lie,n
+54_f_l_7,Female,64,'Graduate degree (Masters, Doctorate, etc.)','United States','You can avoid all disease-causing microbes by staying indoors.',lie,o
+55_f_l_1,Female,32,'Graduate degree (Masters, Doctorate, etc.)',America,'It is not possible for deer to be albino.',lie,n
+55_f_l_2,Female,32,'Graduate degree (Masters, Doctorate, etc.)',America,'There is a specific type of apple that is actually poisonous to humans.',lie,n
+55_f_l_3,Female,32,'Graduate degree (Masters, Doctorate, etc.)',America,'Your hair keeps growing after death.',lie,o
+55_f_l_4,Female,32,'Graduate degree (Masters, Doctorate, etc.)',America,'It is illegal to own a tortoise in nj.',lie,o
+55_f_l_5,Female,32,'Graduate degree (Masters, Doctorate, etc.)',America,'Pennies contain traces of lead.',lie,n
+55_f_l_6,Female,32,'Graduate degree (Masters, Doctorate, etc.)',America,'Halloween was created by candy companies to increase the sale of candy during the depression.',lie,o
+55_f_l_7,Female,32,'Graduate degree (Masters, Doctorate, etc.)',America,'All fairy tales, while not accurate, have been based on people who actually existed.',lie,o
+56_f_l_1,Female,29,'Associates degree',India,'She was very silent as her husband stated.',lie,n
+56_f_l_2,Female,29,'Associates degree',India,'The moon is very beautiful like you darling.',lie,n
+56_f_l_3,Female,29,'Associates degree',India,'She never loves marketing.',lie,n
+56_f_l_4,Female,29,'Associates degree',India,'Do you know darling!! there are two moon.',lie,o
+56_f_l_5,Female,29,'Associates degree',India,'He was walking on frictionless ground.',lie,o
+56_f_l_6,Female,29,'Associates degree',India,'Patal is beneath the ground and name of cities are matching in america which is patal of india.',lie,n
+56_f_l_7,Female,29,'Associates degree',India,'America was invented by amerigo where the human societies were already residing and they were crushed and flamed. it is the history.',lie,o
+57_f_l_1,Female,60,'Bachelors degree',USA,'I live in france.',lie,n
+57_f_l_2,Female,60,'Bachelors degree',USA,'My dogs are all very small.',lie,n
+57_f_l_3,Female,60,'Bachelors degree',USA,'I think the us justice system is fair to everyone.',lie,n
+57_f_l_4,Female,60,'Bachelors degree',USA,'My husband never falls asleep on the couch.',lie,n
+57_f_l_5,Female,60,'Bachelors degree',USA,'Us residents know a lot about other countries.',lie,n
+57_f_l_6,Female,60,'Bachelors degree',USA,'I have six children.',lie,n
+57_f_l_7,Female,60,'Bachelors degree',USA,'All dogs are friendly.',lie,n
+58_f_l_1,Female,43,'Bachelors degree',Philippines,'I have a happy marriage.',lie,n
+58_f_l_2,Female,43,'Bachelors degree',Philippines,'I love my husband.',lie,n
+58_f_l_3,Female,43,'Bachelors degree',Philippines,'I have all the money i need.',lie,n
+58_f_l_4,Female,43,'Bachelors degree',Philippines,'I do not need a vacation.',lie,n
+58_f_l_5,Female,43,'Bachelors degree',Philippines,'I like my religion.',lie,n
+58_f_l_6,Female,43,'Bachelors degree',Philippines,'I am the best mom in the whole world.',lie,o
+58_f_l_7,Female,43,'Bachelors degree',Philippines,'I enjoy bringing my daughter to and from school.',lie,n
+59_f_l_1,Female,20,'Some college, no degree','United States of America','George w. bush is the current president.',lie,n
+59_f_l_2,Female,20,'Some college, no degree','United States of America','Barack obama is from italy.',lie,o
+59_f_l_3,Female,20,'Some college, no degree','United States of America','You can obtain a driver\'s license at age 13.',lie,n
+59_f_l_4,Female,20,'Some college, no degree','United States of America','Mexico is a part of the united states.',lie,o
+59_f_l_5,Female,20,'Some college, no degree','United States of America','There are 48 states.',lie,o
+59_f_l_6,Female,20,'Some college, no degree','United States of America','The colors of the american flag are red, white, and green.',lie,o
+59_f_l_7,Female,20,'Some college, no degree','United States of America','There are nine wonders of the world.',lie,n
+60_f_l_1,Female,28,'Bachelors degree',USA,'That dress does not make you look fat.',lie,n
+60_f_l_2,Female,28,'Bachelors degree',USA,'Drinking coke will probably bring you fame.',lie,o
+60_f_l_3,Female,28,'Bachelors degree',USA,'Wearing axe body spray will drive your girlfriend wild.',lie,n
+60_f_l_4,Female,28,'Bachelors degree',USA,'Anyone can do it.',lie,n
+60_f_l_5,Female,28,'Bachelors degree',USA,'One size fits all.',lie,o
+60_f_l_6,Female,28,'Bachelors degree',USA,'There\'s probably no meat in this.',lie,n
+60_f_l_7,Female,28,'Bachelors degree',USA,'Brown eggs are more definitely natural than white eggs.',lie,n
+61_f_l_1,Female,32,'Bachelors degree',USA,'I own a dog.',lie,n
+61_f_l_2,Female,32,'Bachelors degree',USA,'I have been to japan.',lie,n
+61_f_l_3,Female,32,'Bachelors degree',USA,'I play guitar.',lie,n
+61_f_l_4,Female,32,'Bachelors degree',USA,'I really like the color yellow.',lie,n
+61_f_l_5,Female,32,'Bachelors degree',USA,'I wish winter would stick around for a while, the snow is beautiful.',lie,n
+61_f_l_6,Female,32,'Bachelors degree',USA,'I hate shopping.',lie,n
+61_f_l_7,Female,32,'Bachelors degree',USA,'I do not feel bothered when others are sad.',lie,n
+62_f_l_1,Female,20,'Some college, no degree','United States of America','I have three brothers',lie,n
+62_f_l_2,Female,20,'Some college, no degree','United States of America','My cat has a broken leg',lie,n
+62_f_l_3,Female,20,'Some college, no degree','United States of America','My dog never sleeps',lie,n
+62_f_l_4,Female,20,'Some college, no degree','United States of America','My niece has red hair',lie,n
+62_f_l_5,Female,20,'Some college, no degree','United States of America','The clouds are gray today',lie,n
+62_f_l_6,Female,20,'Some college, no degree','United States of America','The trees don\'t have any leaves',lie,n
+62_f_l_7,Female,20,'Some college, no degree','United States of America','The baseball game got rained out',lie,n
+63_f_l_1,Female,24,'Bachelors degree',USA,'I am a man.',lie,n
+63_f_l_2,Female,24,'Bachelors degree',USA,'It is below zero outside.',lie,n
+63_f_l_3,Female,24,'Bachelors degree',USA,'Coffee is made from tires.',lie,n
+63_f_l_4,Female,24,'Bachelors degree',USA,'Computers can read your mind.',lie,o
+63_f_l_5,Female,24,'Bachelors degree',USA,'The main ingredient in honey is calcium.',lie,o
+63_f_l_6,Female,24,'Bachelors degree',USA,'My favorite color is orange.',lie,n
+63_f_l_7,Female,24,'Bachelors degree',USA,'Corn is a fruit.',lie,o
+64_f_l_1,Female,69,'Bachelors degree',usa,'There is a cure for the common cold.',lie,n
+64_f_l_2,Female,69,'Bachelors degree',usa,'I can loose 10 pounds a day.',lie,o
+64_f_l_3,Female,69,'Bachelors degree',usa,'Ice cream has 10 calories per gallon.',lie,o
+64_f_l_4,Female,69,'Bachelors degree',usa,'Easter eggs are being replaced with basketballs.',lie,o
+64_f_l_5,Female,69,'Bachelors degree',usa,'Cranberry juice is yellow.',lie,o
+64_f_l_6,Female,69,'Bachelors degree',usa,'My car gets 600 miles per gallon.',lie,o
+64_f_l_7,Female,69,'Bachelors degree',usa,'I am going to eat at a restaurant that pays me to eat there.',lie,o
+65_f_l_1,Female,32,'Bachelors degree','United States','Deciduous trees lose their leaves every winter.',lie,n
+65_f_l_2,Female,32,'Bachelors degree','United States','The city of atlantis was found off the coast of california.',lie,o
+65_f_l_3,Female,32,'Bachelors degree','United States','People who are allergic to grass are ten times more likely to be allergic to peanuts.',lie,o
+65_f_l_4,Female,32,'Bachelors degree','United States','Mosquitoes do not like the taste of cats blood.',lie,n
+65_f_l_5,Female,32,'Bachelors degree','United States','Women with blonde hair have blood lines linking them to swedish immigrants.',lie,n
+65_f_l_6,Female,32,'Bachelors degree','United States','Dogs and cats can see the color purple.',lie,n
+65_f_l_7,Female,32,'Bachelors degree','United States','Your dna changes if you have a blood transfusion.',lie,o
+66_f_l_1,Female,35,'Bachelors degree',Jamaica,'All men are liars.',lie,o
+66_f_l_2,Female,35,'Bachelors degree',Jamaica,'Women are more superior to men.',lie,n
+66_f_l_3,Female,35,'Bachelors degree',Jamaica,'All americans are depressed.',lie,o
+66_f_l_4,Female,35,'Bachelors degree',Jamaica,'Most olympic athletes are on drugs.',lie,o
+66_f_l_5,Female,35,'Bachelors degree',Jamaica,'Indians are very bad at speaking english.',lie,o
+66_f_l_6,Female,35,'Bachelors degree',Jamaica,'Politicians are all corrupt.',lie,o
+66_f_l_7,Female,35,'Bachelors degree',Jamaica,'Hollywood is all about drugs, sex and money.',lie,o
+67_f_l_1,Female,55,'Bachelors degree','United States','There are coupons available to visit disneyland for free.',lie,o
+67_f_l_2,Female,55,'Bachelors degree','United States','The university of california acceptance system is biased against asians.',lie,n
+67_f_l_3,Female,55,'Bachelors degree','United States','Dark matter has been determined to be as dangerous as an atomic bomb.',lie,o
+67_f_l_4,Female,55,'Bachelors degree','United States','Pornography isn\'t addictive.',lie,n
+67_f_l_5,Female,55,'Bachelors degree','United States','Off-shore oil rigs are very safe.',lie,n
+67_f_l_6,Female,55,'Bachelors degree','United States','Children from small families are more successful than those from large families.',lie,n
+67_f_l_7,Female,55,'Bachelors degree','United States','Pipelines transporting gas or oil are very unsafe.',lie,n
+68_f_l_1,Female,45,'Bachelors degree',USA,'There is a tornado watch in effect for the next 3 days.',lie,n
+68_f_l_2,Female,45,'Bachelors degree',USA,'A new restaurant is opening up in the next town.',lie,n
+68_f_l_3,Female,45,'Bachelors degree',USA,'I have read 5 novels this week.',lie,n
+68_f_l_4,Female,45,'Bachelors degree',USA,'My cousin ran a marathon in the middle of a snowstorm.',lie,n
+68_f_l_5,Female,45,'Bachelors degree',USA,'I\'m putting my house on the market this summer.',lie,n
+68_f_l_6,Female,45,'Bachelors degree',USA,'I just won the lottery.',lie,n
+68_f_l_7,Female,45,'Bachelors degree',USA,'My vacation to italy was postponed.',lie,n
+69_f_l_1,Female,40,'Bachelors degree',india,'I will be able to get a job tomorrow',lie,n
+69_f_l_2,Female,40,'Bachelors degree',india,'I can finish the whole syllabus by the end of day',lie,n
+69_f_l_3,Female,40,'Bachelors degree',india,'I need to do something about my personality, looks',lie,n
+69_f_l_4,Female,40,'Bachelors degree',india,'I am open to night shifts',lie,n
+69_f_l_5,Female,40,'Bachelors degree',india,'I hope to be in the usa, by this time next year',lie,n
+69_f_l_6,Female,40,'Bachelors degree',india,'My family is doing very well',lie,n
+69_f_l_7,Female,40,'Bachelors degree',india,'I am happy with my job',lie,n
+70_f_l_1,Female,62,'Graduate degree (Masters, Doctorate, etc.)',US,'The time that i have to spend with my husband is enjoyable.',lie,n
+70_f_l_2,Female,62,'Graduate degree (Masters, Doctorate, etc.)',US,'Our budget is large because i make sufficient money to buy the groceries i would like.',lie,n
+70_f_l_3,Female,62,'Graduate degree (Masters, Doctorate, etc.)',US,'My laptap is in perfect condition.',lie,n
+70_f_l_4,Female,62,'Graduate degree (Masters, Doctorate, etc.)',US,'Our refrigerator is filled with nutritious foods.',lie,n
+70_f_l_5,Female,62,'Graduate degree (Masters, Doctorate, etc.)',US,'I ate a tasty sandwich for lunch today.',lie,n
+70_f_l_6,Female,62,'Graduate degree (Masters, Doctorate, etc.)',US,'My house is as clean as a pin.',lie,n
+70_f_l_7,Female,62,'Graduate degree (Masters, Doctorate, etc.)',US,'The art of singing is very easy, if you know how.',lie,n
+71_f_l_1,Female,40,'High School Graduate','united states','When i walked outside after lunch, i realized i had locked myself out.',lie,n
+71_f_l_2,Female,40,'High School Graduate','united states','The cookies at that bakery are made from buckwheat.',lie,n
+71_f_l_3,Female,40,'High School Graduate','united states','There are pig byproducts in most vegetable dishes.',lie,o
+71_f_l_4,Female,40,'High School Graduate','united states','A car will still run if you put vegetable oil in the gas tank.',lie,o
+71_f_l_5,Female,40,'High School Graduate','united states','Carpet cleaner removes crayon stains.',lie,n
+71_f_l_6,Female,40,'High School Graduate','united states','Once you are running fast enough, your fat loss slows down.',lie,n
+71_f_l_7,Female,40,'High School Graduate','united states','You can refill a printer with ink from ballpoint pens.',lie,o
+72_f_l_1,Female,23,'Some college, no degree',USA,'I am very old.',lie,n
+72_f_l_2,Female,23,'Some college, no degree',USA,'I make 50,000 dollars every year.',lie,n
+72_f_l_3,Female,23,'Some college, no degree',USA,'I am in love with my husband.',lie,n
+72_f_l_4,Female,23,'Some college, no degree',USA,'I am a great singer.',lie,n
+72_f_l_5,Female,23,'Some college, no degree',USA,'I am a focused worker.',lie,n
+72_f_l_6,Female,23,'Some college, no degree',USA,'People often compare me to a supermodel.',lie,n
+72_f_l_7,Female,23,'Some college, no degree',USA,'I always eat well and exercise.',lie,n
+73_f_l_1,Female,31,'Graduate degree (Masters, Doctorate, etc.)','United States','This morning, there was a storm and after it the sky was pink.',lie,o
+73_f_l_2,Female,31,'Graduate degree (Masters, Doctorate, etc.)','United States','I heard that despite indications otherwise, agents of shield is going to be cancelled.',lie,n
+73_f_l_3,Female,31,'Graduate degree (Masters, Doctorate, etc.)','United States','Yesterday, it rained all day.',lie,n
+73_f_l_4,Female,31,'Graduate degree (Masters, Doctorate, etc.)','United States','Plants come in a wide variety of colors, there are even plants that have iridescent leaves.',lie,n
+73_f_l_5,Female,31,'Graduate degree (Masters, Doctorate, etc.)','United States','Vaccines cause autism.',lie,o
+73_f_l_6,Female,31,'Graduate degree (Masters, Doctorate, etc.)','United States','I love asparagus.',lie,n
+73_f_l_7,Female,31,'Graduate degree (Masters, Doctorate, etc.)','United States','If you can\'t draw well when you first start trying to learn, there\'s no point in continuing.',lie,o
+74_f_l_1,Female,48,'Bachelors degree',India,'I went to space many times and it was a great experience.',lie,o
+74_f_l_2,Female,48,'Bachelors degree',India,'I am  a mother of 25 children.',lie,o
+74_f_l_3,Female,48,'Bachelors degree',India,'I have a post doctoral degree in psychology.',lie,n
+74_f_l_4,Female,48,'Bachelors degree',India,'I learned driving and used to drive at the age of 5.',lie,o
+74_f_l_5,Female,48,'Bachelors degree',India,'I won  million dollars in a lottery.',lie,o
+74_f_l_6,Female,48,'Bachelors degree',India,'I am a popular musician and film director.',lie,o
+74_f_l_7,Female,48,'Bachelors degree',India,'I lived in a hut in  forest and i have many friends there.',lie,n
+75_f_l_1,Female,51,'Bachelors degree',USA,'I like my customer-service type job.',lie,n
+75_f_l_2,Female,51,'Bachelors degree',USA,'My mother was good at parenting.',lie,n
+75_f_l_3,Female,51,'Bachelors degree',USA,'I am outgoing.',lie,n
+75_f_l_4,Female,51,'Bachelors degree',USA,'My father is open-minded.',lie,n
+75_f_l_5,Female,51,'Bachelors degree',USA,'I don\'t like animals.',lie,n
+75_f_l_6,Female,51,'Bachelors degree',USA,'I love going to the dentist.',lie,n
+75_f_l_7,Female,51,'Bachelors degree',USA,'I am religious.',lie,n
+76_f_l_1,Female,29,'Bachelors degree','United States','I enjoy the feeling of lipstick on my mouth.',lie,n
+76_f_l_2,Female,29,'Bachelors degree','United States','There is no evidence that america is an oligarchy.',lie,n
+76_f_l_3,Female,29,'Bachelors degree','United States','Rabbits are hideous creatures.',lie,n
+76_f_l_4,Female,29,'Bachelors degree','United States','I secretly loathe my husband.',lie,n
+76_f_l_5,Female,29,'Bachelors degree','United States','19th century asylum reform in the united kingdom was completely successful and well-intended.',lie,n
+76_f_l_6,Female,29,'Bachelors degree','United States','Dogs are more intelligent than rats.',lie,n
+76_f_l_7,Female,29,'Bachelors degree','United States','Vaccines cause autism.',lie,o
+77_f_l_1,Female,20,'Associates degree','United States','I am a virgin.',lie,n
+77_f_l_2,Female,20,'Associates degree','United States','Every girl cried watching the notebook.',lie,n
+77_f_l_3,Female,20,'Associates degree','United States','Men are always stronger than women.',lie,o
+77_f_l_4,Female,20,'Associates degree','United States','It is impossible to get addicted to alcohol.',lie,o
+77_f_l_5,Female,20,'Associates degree','United States','It is impossible to get cancer if you are a vegetarian.',lie,o
+77_f_l_6,Female,20,'Associates degree','United States','Dogs don\'t like cats.',lie,n
+77_f_l_7,Female,20,'Associates degree','United States','All birds can fly.',lie,o
+78_f_l_1,Female,38,'Bachelors degree',USA,'The president of the united states of america is a woman.',lie,n
+78_f_l_2,Female,38,'Bachelors degree',USA,'There has been a 10.5 earthquake in the pacific northwest of the united states.',lie,o
+78_f_l_3,Female,38,'Bachelors degree',USA,'A good way to lose weight for the long term is using hcg.',lie,n
+78_f_l_4,Female,38,'Bachelors degree',USA,'Mermaids living in the sea are real.',lie,o
+78_f_l_5,Female,38,'Bachelors degree',USA,'Coke zero is better for you than diet coke.',lie,n
+78_f_l_6,Female,38,'Bachelors degree',USA,'It doesn\'t matter where you buy your flooring from - it\'s all the same.',lie,n
+78_f_l_7,Female,38,'Bachelors degree',USA,'Mcdonald\'s serves high-quality beef.',lie,o
+79_f_l_1,Female,31,'Graduate degree (Masters, Doctorate, etc.)',India,'Once you wax your eyebrows into shape you do not have to do it again.',lie,n
+79_f_l_2,Female,31,'Graduate degree (Masters, Doctorate, etc.)',India,'Drinking ten glasses of water a day is enough to lose seven pounds in a week',lie,o
+79_f_l_3,Female,31,'Graduate degree (Masters, Doctorate, etc.)',India,'Cash from an atm is always in small currency notes',lie,o
+79_f_l_4,Female,31,'Graduate degree (Masters, Doctorate, etc.)',India,'It takes longer to travel in a city when you use public transport',lie,n
+79_f_l_5,Female,31,'Graduate degree (Masters, Doctorate, etc.)',India,'Children will respect their boundaries once you set them',lie,n
+79_f_l_6,Female,31,'Graduate degree (Masters, Doctorate, etc.)',India,'Practice anything long enough and you can become an expert soon.',lie,n
+79_f_l_7,Female,31,'Graduate degree (Masters, Doctorate, etc.)',India,'Doctors always know which medication to give every patient they treat.',lie,o
+80_f_l_1,Female,60,'High School Graduate','United States','I\'m going to a basketball game tonight.',lie,n
+80_f_l_2,Female,60,'High School Graduate','United States','My family is very wealthy.',lie,n
+80_f_l_3,Female,60,'High School Graduate','United States','I have a brand new car.',lie,n
+80_f_l_4,Female,60,'High School Graduate','United States','I have three children.',lie,n
+80_f_l_5,Female,60,'High School Graduate','United States','My home is worth over a million dollars.',lie,o
+80_f_l_6,Female,60,'High School Graduate','United States','My favorite hobby is  taking pictures.',lie,n
+80_f_l_7,Female,60,'High School Graduate','United States','I am a really good cook.',lie,n
+81_f_l_1,Female,19,'Some college, no degree',USA,'My phone is blue.',lie,n
+81_f_l_2,Female,19,'Some college, no degree',USA,'I have a boyfriend.',lie,n
+81_f_l_3,Female,19,'Some college, no degree',USA,'I am gay.',lie,n
+81_f_l_4,Female,19,'Some college, no degree',USA,'I dislike sleeping.',lie,n
+81_f_l_5,Female,19,'Some college, no degree',USA,'I do not plan to donate blood tomorrow.',lie,n
+81_f_l_6,Female,19,'Some college, no degree',USA,'My sister is not pretty.',lie,n
+81_f_l_7,Female,19,'Some college, no degree',USA,'I am doing well in school.',lie,n
+82_f_l_1,Female,37,'Bachelors degree','United States','I have a cat.',lie,n
+82_f_l_2,Female,37,'Bachelors degree','United States','I am a man.',lie,n
+82_f_l_3,Female,37,'Bachelors degree','United States','I have a ring.',lie,n
+82_f_l_4,Female,37,'Bachelors degree','United States','I love sports.',lie,n
+82_f_l_5,Female,37,'Bachelors degree','United States','I am a teenager.',lie,n
+82_f_l_6,Female,37,'Bachelors degree','United States','I drink 40 ounce beers.',lie,n
+82_f_l_7,Female,37,'Bachelors degree','United States','I live in japan.',lie,n
+83_f_l_1,Female,23,'Some college, no degree','United States of America','The titanic was hit by a torpedo, that\'s what caused it to sink.',lie,o
+83_f_l_2,Female,23,'Some college, no degree','United States of America','Roses are not known for their thorns.',lie,n
+83_f_l_3,Female,23,'Some college, no degree','United States of America','Wood is the hardest material on earth.',lie,o
+83_f_l_4,Female,23,'Some college, no degree','United States of America','Milk is a very unhealthy drink.',lie,n
+83_f_l_5,Female,23,'Some college, no degree','United States of America','Children\'s brains mature by the time they are fifteen.',lie,n
+83_f_l_6,Female,23,'Some college, no degree','United States of America','Turtles are most known for their speed on land.',lie,n
+83_f_l_7,Female,23,'Some college, no degree','United States of America','If you mix bleach and ammonia it is a delightful smelling cleaner.',lie,n
+84_f_l_1,Female,36,'Graduate degree (Masters, Doctorate, etc.)',USA,'Most millionaires are from the state of florida.',lie,n
+84_f_l_2,Female,36,'Graduate degree (Masters, Doctorate, etc.)',USA,'If you are married, you can file as head of household on your taxes.',lie,n
+84_f_l_3,Female,36,'Graduate degree (Masters, Doctorate, etc.)',USA,'Indiana is one of the few states which has not adopted daylight savings time.',lie,n
+84_f_l_4,Female,36,'Graduate degree (Masters, Doctorate, etc.)',USA,'The epa recommends each household utilize no more than 6 gallons of used motor oil each year as a lawn fertilizer.',lie,n
+84_f_l_5,Female,36,'Graduate degree (Masters, Doctorate, etc.)',USA,'The feel of weightlessness in outer space has nothing to do with gravity.',lie,o
+84_f_l_6,Female,36,'Graduate degree (Masters, Doctorate, etc.)',USA,'Fewer than 28 percent of eligible voters participated in the 2008 us presidential election.',lie,n
+84_f_l_7,Female,36,'Graduate degree (Masters, Doctorate, etc.)',USA,'Hawaii is five times more likely to experience a tornado than iowa.',lie,n
+85_f_l_1,Female,30,'Bachelors degree',USA,'My cat is orange.',lie,n
+85_f_l_2,Female,30,'Bachelors degree',USA,'Dinner will be at 4pm.',lie,n
+85_f_l_3,Female,30,'Bachelors degree',USA,'The dishes are all clean.',lie,n
+85_f_l_4,Female,30,'Bachelors degree',USA,'I vacuumed the floor today.',lie,n
+85_f_l_5,Female,30,'Bachelors degree',USA,'My socks are purple.',lie,n
+85_f_l_6,Female,30,'Bachelors degree',USA,'I have a full time job.',lie,n
+85_f_l_7,Female,30,'Bachelors degree',USA,'It\'s raining out.',lie,n
+86_f_l_1,Female,48,'High School Graduate','united states','I took my best friend\'s car to a party and it was stolen.',lie,n
+86_f_l_2,Female,48,'High School Graduate','united states','I took food from a grocery store to feed a homeless family that sleeps at a empty parking lot.',lie,n
+86_f_l_3,Female,48,'High School Graduate','united states','I told my boyfriend that my weight gain is due to over depression and that i am not pregnant.',lie,n
+86_f_l_4,Female,48,'High School Graduate','united states','I leave my house every morning to go to work , but i was fired over a month ago.',lie,n
+86_f_l_5,Female,48,'High School Graduate','united states','I dislike my parents for not raising me as they gave me up for adoption.',lie,n
+86_f_l_6,Female,48,'High School Graduate','united states','I will sue my own sister if she refuses to pay back a 10k loan she has from me over 4 years ago',lie,n
+86_f_l_7,Female,48,'High School Graduate','united states','I will never move to another state even to take care of another family member.',lie,n
+87_f_l_1,Female,38,'Associates degree',Jamaica,'The united states has sixty states.',lie,o
+87_f_l_2,Female,38,'Associates degree',Jamaica,'Each of the states in the united states has three senators.',lie,o
+87_f_l_3,Female,38,'Associates degree',Jamaica,'The united states independence day is on the 5th of july.',lie,o
+87_f_l_4,Female,38,'Associates degree',Jamaica,'The statue of liberty is located in alaska',lie,o
+87_f_l_5,Female,38,'Associates degree',Jamaica,'The united states is in the caribbean sea.',lie,o
+87_f_l_6,Female,38,'Associates degree',Jamaica,'The himalayas mountain is in the united states.',lie,o
+87_f_l_7,Female,38,'Associates degree',Jamaica,'The president of the united states can only serve three terms.',lie,o
+88_f_l_1,Female,29,'Some college, no degree','United States','I have a master\'s degree in psychology.',lie,n
+88_f_l_2,Female,29,'Some college, no degree','United States','My cat is gray with tiger stripes.',lie,n
+88_f_l_3,Female,29,'Some college, no degree','United States','I have blonde hair.',lie,n
+88_f_l_4,Female,29,'Some college, no degree','United States','I drive a bright red mustang cobra.',lie,n
+88_f_l_5,Female,29,'Some college, no degree','United States','I live on ten acres of land.',lie,n
+88_f_l_6,Female,29,'Some college, no degree','United States','My daughter has skipped three grades in school.',lie,o
+88_f_l_7,Female,29,'Some college, no degree','United States','I am scheduled to join the first manned mars mission.',lie,o
+89_f_l_1,Female,20,'Associates degree',USA,'Dawn has purple soap.',lie,n
+89_f_l_2,Female,20,'Associates degree',USA,'Helium is running out.',lie,n
+89_f_l_3,Female,20,'Associates degree',USA,'People from new york are mean.',lie,n
+89_f_l_4,Female,20,'Associates degree',USA,'Rednecks are stupid.',lie,n
+89_f_l_5,Female,20,'Associates degree',USA,'Laundromats are starting self cleaning machines.',lie,n
+89_f_l_6,Female,20,'Associates degree',USA,'Trees are becoming extinct.',lie,n
+89_f_l_7,Female,20,'Associates degree',USA,'Furniture is not being made of wood anymore.',lie,n
+90_f_l_1,Female,52,'Graduate degree (Masters, Doctorate, etc.)',India,'I have never been to india',lie,n
+90_f_l_2,Female,52,'Graduate degree (Masters, Doctorate, etc.)',India,'I am illiterate.',lie,n
+90_f_l_3,Female,52,'Graduate degree (Masters, Doctorate, etc.)',India,'Yesterday there was a heavy rainfall near my house.',lie,n
+90_f_l_4,Female,52,'Graduate degree (Masters, Doctorate, etc.)',India,'India is a very thinly populated country.',lie,n
+90_f_l_5,Female,52,'Graduate degree (Masters, Doctorate, etc.)',India,'I am twenty year old',lie,n
+90_f_l_6,Female,52,'Graduate degree (Masters, Doctorate, etc.)',India,'I do not read and write english.',lie,n
+90_f_l_7,Female,52,'Graduate degree (Masters, Doctorate, etc.)',India,'Urdu is my mother tongue.',lie,n
+91_f_l_1,Female,44,'Associates degree',U.S.,'I earned my associates degree in 1984.',lie,n
+91_f_l_2,Female,44,'Associates degree',U.S.,'My residence is in fairbanks, alaska.',lie,n
+91_f_l_3,Female,44,'Associates degree',U.S.,'I really like living in fairbanks.',lie,n
+91_f_l_4,Female,44,'Associates degree',U.S.,'When i moved up to alaska, all my stuff was in a u-haul i pulled behind my car.',lie,n
+91_f_l_5,Female,44,'Associates degree',U.S.,'The sky is blue because it is an reflection from the oceans.',lie,o
+91_f_l_6,Female,44,'Associates degree',U.S.,'Humans have explored the pacific ocean completely and we know every plant and animal that lives in it.',lie,o
+91_f_l_7,Female,44,'Associates degree',U.S.,'Mars has active volcanoes.',lie,n
+92_f_l_1,Female,39,'Some college, no degree','United States','Nuclear bomb dropped on syria.',lie,o
+92_f_l_2,Female,39,'Some college, no degree','United States','President obama indicted for treason.',lie,o
+92_f_l_3,Female,39,'Some college, no degree','United States','Beyonce files for divorce.',lie,n
+92_f_l_4,Female,39,'Some college, no degree','United States','President obama pardons all remaining prison inmates convicted of crack related crimes in the 1980\'s.',lie,n
+92_f_l_5,Female,39,'Some college, no degree','United States','Justin bieber overdosed on heroin this morning.',lie,n
+92_f_l_6,Female,39,'Some college, no degree','United States','Miley cyrus is pregnant by snoop dog.',lie,n
+92_f_l_7,Female,39,'Some college, no degree','United States','Nasa satellite falls out sky killing easter bunny.',lie,o
+93_f_l_1,Female,59,'Graduate degree (Masters, Doctorate, etc.)',USA,'Mark harmon is leaving ncis next season.',lie,n
+93_f_l_2,Female,59,'Graduate degree (Masters, Doctorate, etc.)',USA,'Ellen degeneres grew up mormon.',lie,n
+93_f_l_3,Female,59,'Graduate degree (Masters, Doctorate, etc.)',USA,'Experts think the volcano in yellowstone national park will erupt soon.',lie,n
+93_f_l_4,Female,59,'Graduate degree (Masters, Doctorate, etc.)',USA,'Winter 2013-2014 set high snowfall records in new hampshire.',lie,n
+93_f_l_5,Female,59,'Graduate degree (Masters, Doctorate, etc.)',USA,'Episcopal priests are not permitted to marry.',lie,n
+93_f_l_6,Female,59,'Graduate degree (Masters, Doctorate, etc.)',USA,'Abraham lincoln was a slave owner.',lie,o
+93_f_l_7,Female,59,'Graduate degree (Masters, Doctorate, etc.)',USA,'John f. kennedy went to medical school.',lie,n
+94_f_l_1,Female,23,'Bachelors degree','United States','Today i participated in a great game of basketball.',lie,n
+94_f_l_2,Female,23,'Bachelors degree','United States','My fellow employees work very hard in their day to day activities.',lie,n
+94_f_l_3,Female,23,'Bachelors degree','United States','I am working toward a degree in computer science.',lie,n
+94_f_l_4,Female,23,'Bachelors degree','United States','My two best friends are both from my home town.',lie,n
+94_f_l_5,Female,23,'Bachelors degree','United States','The movie that i watched last week was number one at the box office.',lie,n
+94_f_l_6,Female,23,'Bachelors degree','United States','I am very good at keeping the  vegetables in my garden alive.',lie,n
+94_f_l_7,Female,23,'Bachelors degree','United States','My family and i will be attending a concert on friday.',lie,n
+95_f_l_1,Female,37,'Bachelors degree',INDIA,'In india there are many wonders. one of them is tajmahal, which is located in agra, new delhi, inida',lie,n
+95_f_l_2,Female,37,'Bachelors degree',INDIA,'In tamil nadu trichirappalli holy pilgrimage centre is rock fort temple,  srirangam temple and thiruvanakkkovil temple etc. those places are to be viewed by all. the god thayumanava swamy was helped a poor pregnant landy and treat her delivery without the presence of her mother. thats why the temple is called as thayumanavaswamy temple',lie,n
+95_f_l_3,Female,37,'Bachelors degree',INDIA,'I am working in a government concern which is located in trichy which is nearar to thayumanavaswamy temple.',lie,n
+95_f_l_4,Female,37,'Bachelors degree',INDIA,'Tsunami came in the year 1994, december 12. many more people were collapsed in that tragetic tsunami.',lie,n
+95_f_l_5,Female,37,'Bachelors degree',INDIA,'In our city now climate is very cool. lightly drizzling. pleasant weather. it looks like kodai climate',lie,n
+95_f_l_6,Female,37,'Bachelors degree',INDIA,'In my office all the computers are hang out.  no servicemen come and rectify the faults. so we are unable to work continously.',lie,n
+95_f_l_7,Female,37,'Bachelors degree',INDIA,'My father is no more and he left me alone in the year 1989 itself. at that time i was studying my 9th standard.',lie,n
+96_f_l_1,Female,46,'Graduate degree (Masters, Doctorate, etc.)',USA,'Blond women are bitches.',lie,o
+96_f_l_2,Female,46,'Graduate degree (Masters, Doctorate, etc.)',USA,'All men love to cheat on their wives.',lie,o
+96_f_l_3,Female,46,'Graduate degree (Masters, Doctorate, etc.)',USA,'It\'s going to be an earthquake tomorrow.',lie,n
+96_f_l_4,Female,46,'Graduate degree (Masters, Doctorate, etc.)',USA,'I will be fired tomorrow.',lie,n
+96_f_l_5,Female,46,'Graduate degree (Masters, Doctorate, etc.)',USA,'I will win a million $$$ tomorrow.',lie,o
+96_f_l_6,Female,46,'Graduate degree (Masters, Doctorate, etc.)',USA,'Google will fire their 10 best engineers soon.',lie,n
+96_f_l_7,Female,46,'Graduate degree (Masters, Doctorate, etc.)',USA,'My friend nick will become a great cook in 3 days.',lie,n
+97_f_l_1,Female,59,'Bachelors degree',usa,'Politicians are always truthful',lie,o
+97_f_l_2,Female,59,'Bachelors degree',usa,'I am honorable',lie,n
+97_f_l_3,Female,59,'Bachelors degree',usa,'Corporations have our best interests at heart',lie,n
+97_f_l_4,Female,59,'Bachelors degree',usa,'Gmos do not cause problems',lie,n
+97_f_l_5,Female,59,'Bachelors degree',usa,'Pop music lyrics are thoughtful and deep',lie,n
+97_f_l_6,Female,59,'Bachelors degree',usa,'Disease is always the person\'s fault',lie,o
+97_f_l_7,Female,59,'Bachelors degree',usa,'Sunshine is healthy',lie,n
+98_f_l_1,Female,26,'Some college, no degree',U.S.,'I am a natural red head.',lie,n
+98_f_l_2,Female,26,'Some college, no degree',U.S.,'I like dogs more than cats.',lie,n
+98_f_l_3,Female,26,'Some college, no degree',U.S.,'I have been married 7 times.',lie,o
+98_f_l_4,Female,26,'Some college, no degree',U.S.,'The speed limit is going down to 25 on my road.',lie,n
+98_f_l_5,Female,26,'Some college, no degree',U.S.,'I have three boyfriends.',lie,o
+98_f_l_6,Female,26,'Some college, no degree',U.S.,'I am related to an astronaut.',lie,n
+98_f_l_7,Female,26,'Some college, no degree',U.S.,'I was born in mexico.',lie,n
+99_f_l_1,Female,24,'Graduate degree (Masters, Doctorate, etc.)',USA,'I am drinking iced tea',lie,n
+99_f_l_2,Female,24,'Graduate degree (Masters, Doctorate, etc.)',USA,'Apple is going out of business',lie,n
+99_f_l_3,Female,24,'Graduate degree (Masters, Doctorate, etc.)',USA,'It is snowing today in nyc',lie,n
+99_f_l_4,Female,24,'Graduate degree (Masters, Doctorate, etc.)',USA,'It will be 100 degrees tomorrow',lie,n
+99_f_l_5,Female,24,'Graduate degree (Masters, Doctorate, etc.)',USA,'There is a drought in nj',lie,n
+99_f_l_6,Female,24,'Graduate degree (Masters, Doctorate, etc.)',USA,'Nj will eliminate all recycling programs',lie,n
+99_f_l_7,Female,24,'Graduate degree (Masters, Doctorate, etc.)',USA,'The government will no longer offer tax refunds',lie,o
+100_f_l_1,Female,29,'Bachelors degree',INDIA,'I have a car',lie,n
+100_f_l_2,Female,29,'Bachelors degree',INDIA,'I am a manager',lie,n
+100_f_l_3,Female,29,'Bachelors degree',INDIA,'My native place is u.s.',lie,n
+100_f_l_4,Female,29,'Bachelors degree',INDIA,'I have many pets.',lie,n
+100_f_l_5,Female,29,'Bachelors degree',INDIA,'I own a luxurious car',lie,n
+100_f_l_6,Female,29,'Bachelors degree',INDIA,'I have a gold bracelet.',lie,n
+100_f_l_7,Female,29,'Bachelors degree',INDIA,'I have many boy friends.',lie,n
+101_f_l_1,Female,63,'Some college, no degree',America,'My dog is well behaved.',lie,n
+101_f_l_2,Female,63,'Some college, no degree',America,'I have a close relationship with my neighbor.',lie,n
+101_f_l_3,Female,63,'Some college, no degree',America,'I make a lot of money on my job.',lie,n
+101_f_l_4,Female,63,'Some college, no degree',America,'I\'m flying to hawaii for my vacation this year.',lie,n
+101_f_l_5,Female,63,'Some college, no degree',America,'I wrote an article for my local news paper.',lie,n
+101_f_l_6,Female,63,'Some college, no degree',America,'My daughter calls me three times a day.',lie,n
+101_f_l_7,Female,63,'Some college, no degree',America,'My house is in perfect condition.',lie,n
+102_f_l_1,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States','58\% of americans can speak at least two languages fluently.',lie,n
+102_f_l_2,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States','The average canadian drinks water from artesian wells.',lie,n
+102_f_l_3,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States','Cane juice consumption improves athletic endurance.',lie,n
+102_f_l_4,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States','A balanced diet includes a root vegetable at every meal.',lie,o
+102_f_l_5,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States','A true mastery of calculus requires a poetic mind.',lie,n
+102_f_l_6,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States','Women don\'t really appreciate old-fashioned chivalry and romance.',lie,n
+102_f_l_7,Female,34,'Graduate degree (Masters, Doctorate, etc.)','United States','Chickens only lose their feathers when extremely ill.',lie,n
+103_f_l_1,Female,34,'Associates degree',USA,'I am 44.',lie,n
+103_f_l_2,Female,34,'Associates degree',USA,'The roof is green.',lie,n
+103_f_l_3,Female,34,'Associates degree',USA,'Cats really like water.',lie,n
+103_f_l_4,Female,34,'Associates degree',USA,'Owls can swim.',lie,o
+103_f_l_5,Female,34,'Associates degree',USA,'Working in a yellow room will eventually make people crazy.',lie,n
+103_f_l_6,Female,34,'Associates degree',USA,'Possums can live in the water and on land.',lie,n
+103_f_l_7,Female,34,'Associates degree',USA,'The younger you are the more likely you are to sneeze.',lie,o
+104_f_l_1,Female,53,'Some college, no degree',USA,'All houses are blue.',lie,o
+104_f_l_2,Female,53,'Some college, no degree',USA,'Boats are always green.',lie,o
+104_f_l_3,Female,53,'Some college, no degree',USA,'Girls never wear pearls.',lie,o
+104_f_l_4,Female,53,'Some college, no degree',USA,'Vegetables are always fresh.',lie,o
+104_f_l_5,Female,53,'Some college, no degree',USA,'Susan never goes out.',lie,n
+104_f_l_6,Female,53,'Some college, no degree',USA,'Debbie never calls her mother.',lie,n
+104_f_l_7,Female,53,'Some college, no degree',USA,'Only boys like to roughhouse.',lie,n
+105_f_l_1,Female,64,'Bachelors degree',USA,'The minnesota twins have won twelve world series.',lie,o
+105_f_l_2,Female,64,'Bachelors degree',USA,'John mccain was elected president in 2008.',lie,n
+105_f_l_3,Female,64,'Bachelors degree',USA,'There are 47 states in the united states.',lie,o
+105_f_l_4,Female,64,'Bachelors degree',USA,'The longest river in the united states is the niagara.',lie,o
+105_f_l_5,Female,64,'Bachelors degree',USA,'Spain is part of the united kingdom.',lie,o
+105_f_l_6,Female,64,'Bachelors degree',USA,'Asparagus is used in the making of apple pie.',lie,n
+105_f_l_7,Female,64,'Bachelors degree',USA,'College is six years long.',lie,n
+106_f_l_1,Female,58,'Bachelors degree',USA,'The white house has a pink and purple bedroom.',lie,n
+106_f_l_2,Female,58,'Bachelors degree',USA,'Sandals were first made by neanderthals.',lie,o
+106_f_l_3,Female,58,'Bachelors degree',USA,'Kangaroos are related to badgers.',lie,n
+106_f_l_4,Female,58,'Bachelors degree',USA,'Dairy farmers receive tax-exempt status from the federal government.',lie,n
+106_f_l_5,Female,58,'Bachelors degree',USA,'Making excellent gourmet gravy requires a special vanilla bean.',lie,n
+106_f_l_6,Female,58,'Bachelors degree',USA,'Celery is high in magnesium.',lie,o
+106_f_l_7,Female,58,'Bachelors degree',USA,'All public librarians must be members of mensa.',lie,o
+107_f_l_1,Female,41,'Bachelors degree',US,'Tomorrow i will take a vacation day.',lie,n
+107_f_l_2,Female,41,'Bachelors degree',US,'I have been employed at my current company for 17 years.',lie,n
+107_f_l_3,Female,41,'Bachelors degree',US,'Everyone believes in the goodness of people.',lie,n
+107_f_l_4,Female,41,'Bachelors degree',US,'Generally speaking, life is fair.',lie,n
+107_f_l_5,Female,41,'Bachelors degree',US,'I take pride in my ability to deceive.',lie,n
+107_f_l_6,Female,41,'Bachelors degree',US,'My eyes are blue.',lie,n
+107_f_l_7,Female,41,'Bachelors degree',US,'You are a great dancer!',lie,n
+108_f_l_1,Female,24,'Bachelors degree',USA,'My neighbors sell crack.',lie,n
+108_f_l_2,Female,24,'Bachelors degree',USA,'My organs are on the opposite side of my body.',lie,n
+108_f_l_3,Female,24,'Bachelors degree',USA,'I am left handed.',lie,n
+108_f_l_4,Female,24,'Bachelors degree',USA,'My couch is blue.',lie,n
+108_f_l_5,Female,24,'Bachelors degree',USA,'All of my friends have blonde hair.',lie,n
+108_f_l_6,Female,24,'Bachelors degree',USA,'I have two boyfriends.',lie,n
+108_f_l_7,Female,24,'Bachelors degree',USA,'My mom is gay.',lie,n
+109_f_l_1,Female,26,'Some college, no degree',usa,'I will stay up till 12 am tomorrow.',lie,n
+109_f_l_2,Female,26,'Some college, no degree',usa,'I will eat at home all three meals.',lie,n
+109_f_l_3,Female,26,'Some college, no degree',usa,'I will divorce my husband.',lie,n
+109_f_l_4,Female,26,'Some college, no degree',usa,'I will hit the wall.',lie,n
+109_f_l_5,Female,26,'Some college, no degree',usa,'I will throw out that lettuce on the counter tomorrow.',lie,n
+109_f_l_6,Female,26,'Some college, no degree',usa,'I will kick over all my plants.',lie,n
+109_f_l_7,Female,26,'Some college, no degree',usa,'I will sew a quilt in a week.',lie,n
+110_f_l_1,Female,45,'Bachelors degree',India,'We inhale nitrogen and exhale carbon gas.',lie,n
+110_f_l_2,Female,45,'Bachelors degree',India,'The largest bird in this earth is the elephant.',lie,o
+110_f_l_3,Female,45,'Bachelors degree',India,'Humans has an average life span of 500 years.',lie,o
+110_f_l_4,Female,45,'Bachelors degree',India,'Dark chocolate is blue in color',lie,o
+110_f_l_5,Female,45,'Bachelors degree',India,'People eat breakfast at night.',lie,o
+110_f_l_6,Female,45,'Bachelors degree',India,'Pillows are sold in the restaurants.',lie,o
+110_f_l_7,Female,45,'Bachelors degree',India,'Cream is obtained from coffee beans.',lie,o
+111_f_l_1,Female,30,'High School Graduate','United states','I went to argentina for spring break last year.',lie,n
+111_f_l_2,Female,30,'High School Graduate','United states','I have two brothers and one sister.',lie,n
+111_f_l_3,Female,30,'High School Graduate','United states','It has been raining for forty days and forty nights.',lie,n
+111_f_l_4,Female,30,'High School Graduate','United states','My cat is the oldest living pet in the world\'s history.',lie,n
+111_f_l_5,Female,30,'High School Graduate','United states','I wear business suits everyday.',lie,n
+111_f_l_6,Female,30,'High School Graduate','United states','There are two thousand butterflies in my front yard.',lie,n
+111_f_l_7,Female,30,'High School Graduate','United states','I still have my prom dress.',lie,n
+112_f_l_1,Female,23,'Some college, no degree','United States','The president of the united states is hilary clinton',lie,n
+112_f_l_2,Female,23,'Some college, no degree','United States','Today is christmas.',lie,n
+112_f_l_3,Female,23,'Some college, no degree','United States','It is winter time in florida.',lie,n
+112_f_l_4,Female,23,'Some college, no degree','United States','President obama has been assassinated.',lie,o
+112_f_l_5,Female,23,'Some college, no degree','United States','Marijuana has now been made legal in all 50 states.',lie,o
+112_f_l_6,Female,23,'Some college, no degree','United States','Apple now owns facebook.',lie,o
+112_f_l_7,Female,23,'Some college, no degree','United States','Humans can no live off of artificial oxygen.',lie,n
+113_f_l_1,Female,64,'Some college, no degree','United States','President obama was born in kenya.',lie,n
+113_f_l_2,Female,64,'Some college, no degree','United States','I can always tell when someone is lying.',lie,o
+113_f_l_3,Female,64,'Some college, no degree','United States','It is easy to get rich, just buy stock in sears.',lie,n
+113_f_l_4,Female,64,'Some college, no degree','United States','All guys only want one thing, and they will marry a girl to get it if they have to.',lie,n
+113_f_l_5,Female,64,'Some college, no degree','United States','Dropping out of high school lets you make more money in the long run.',lie,o
+113_f_l_6,Female,64,'Some college, no degree','United States','If you have one child, your life is ruined anyway so you might as well have five.',lie,o
+113_f_l_7,Female,64,'Some college, no degree','United States','Once you get a bad reputation your life is over.',lie,o
+114_f_l_1,Female,36,'Some college, no degree',USA,'Wild bears kill people for sport.',lie,o
+114_f_l_2,Female,36,'Some college, no degree',USA,'Mostly white people are in prison.',lie,n
+114_f_l_3,Female,36,'Some college, no degree',USA,'Alcohol is not addictive.',lie,n
+114_f_l_4,Female,36,'Some college, no degree',USA,'Most adults cannot read.',lie,o
+114_f_l_5,Female,36,'Some college, no degree',USA,'Masturbation causes blindness.',lie,o
+114_f_l_6,Female,36,'Some college, no degree',USA,'The sun does not cause skin cancer.',lie,n
+114_f_l_7,Female,36,'Some college, no degree',USA,'The average life expectancy in the united states is 35 for women.',lie,o
+115_f_l_1,Female,29,'Bachelors degree',USA,'Strawberries have a bitter aftertaste.',lie,n
+115_f_l_2,Female,29,'Bachelors degree',USA,'Airplanes are a very dangerous method of travel.',lie,n
+115_f_l_3,Female,29,'Bachelors degree',USA,'Not many people like chocolate.',lie,n
+115_f_l_4,Female,29,'Bachelors degree',USA,'No one likes to eat popcorn at the movies.',lie,n
+115_f_l_5,Female,29,'Bachelors degree',USA,'Cooking is not a valuable skill to have.',lie,n
+115_f_l_6,Female,29,'Bachelors degree',USA,'It is not important to keep surgical incisions clean.',lie,o
+115_f_l_7,Female,29,'Bachelors degree',USA,'Exercise is not good for you.',lie,o
+116_f_l_1,Female,27,'Bachelors degree','United States','My cat is furry.',lie,n
+116_f_l_2,Female,27,'Bachelors degree','United States','I do not have allergies.',lie,n
+116_f_l_3,Female,27,'Bachelors degree','United States','Education is not important.',lie,n
+116_f_l_4,Female,27,'Bachelors degree','United States','A table must have six legs.',lie,o
+116_f_l_5,Female,27,'Bachelors degree','United States','The sky is sunny.',lie,n
+116_f_l_6,Female,27,'Bachelors degree','United States','My shirt is black.',lie,n
+116_f_l_7,Female,27,'Bachelors degree','United States','I do not have a bed.',lie,n
+117_f_l_1,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'It is raining today.',lie,n
+117_f_l_2,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'My school just won the state championship football game.',lie,n
+117_f_l_3,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'I graduated from oxford university.',lie,n
+117_f_l_4,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'Tomorrow i am flying to tahiti.',lie,n
+117_f_l_5,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'I am currently on vacation at the beach.',lie,n
+117_f_l_6,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'Today is sunday.',lie,n
+117_f_l_7,Female,48,'Graduate degree (Masters, Doctorate, etc.)',USA,'I am wearing a baseball cap.',lie,n
+118_f_l_1,Female,29,'Bachelors degree','United States','My dog is a mix breed of poodle and shihtzu',lie,n
+118_f_l_2,Female,29,'Bachelors degree','United States','My cake has no sugar in it',lie,o
+118_f_l_3,Female,29,'Bachelors degree','United States','My vegetables are organically grown',lie,n
+118_f_l_4,Female,29,'Bachelors degree','United States','This year i will turn 30 years old on my birthday',lie,n
+118_f_l_5,Female,29,'Bachelors degree','United States','I have never used a single drug',lie,n
+118_f_l_6,Female,29,'Bachelors degree','United States','That sweater was bought as a gift for me',lie,n
+118_f_l_7,Female,29,'Bachelors degree','United States','The ending in the book was amazing',lie,n
+119_f_l_1,Female,20,'Some college, no degree','United States','I like most of what i hear on the radio.',lie,n
+119_f_l_2,Female,20,'Some college, no degree','United States','Nikki rhea doesn\'t really care about people.',lie,n
+119_f_l_3,Female,20,'Some college, no degree','United States','My dad was really mean to me growing up.',lie,n
+119_f_l_4,Female,20,'Some college, no degree','United States','I didn\'t know i was trespassing when i crossed into my neighbor\'s yard.',lie,n
+119_f_l_5,Female,20,'Some college, no degree','United States','I thoroughly research all candidates before deciding who to vote for.',lie,n
+119_f_l_6,Female,20,'Some college, no degree','United States','I have a well-fleshed-out plan for what i\'m doing after graduation.',lie,n
+119_f_l_7,Female,20,'Some college, no degree','United States','People seem really satisfied leaving ihop.',lie,n
+120_f_l_1,Female,70,'Some college, no degree',USA,'All the processed foods in the grocery store are good for us.',lie,o
+120_f_l_2,Female,70,'Some college, no degree',USA,'The fda is trustworthy and has our best interests at heart.',lie,n
+120_f_l_3,Female,70,'Some college, no degree',USA,'No need to be concerned about having a vaccine.',lie,n
+120_f_l_4,Female,70,'Some college, no degree',USA,'The government is usually right and not selfish.',lie,n
+120_f_l_5,Female,70,'Some college, no degree',USA,'The public is right trust doctors.',lie,n
+120_f_l_6,Female,70,'Some college, no degree',USA,'Drug companies are credible.',lie,n
+120_f_l_7,Female,70,'Some college, no degree',USA,'Gmo grains are safe, monsanto\'s a good company.',lie,n
+121_f_l_1,Female,40,'Associates degree',USA,'I don\'t like chocolate.',lie,n
+121_f_l_2,Female,40,'Associates degree',USA,'My town experienced a tornado today.',lie,n
+121_f_l_3,Female,40,'Associates degree',USA,'I have more music than i could ever want to own.',lie,n
+121_f_l_4,Female,40,'Associates degree',USA,'My brother caught a really big catfish on the lake.',lie,n
+121_f_l_5,Female,40,'Associates degree',USA,'I don\'t know anyone that has ever watched a movie.',lie,n
+121_f_l_6,Female,40,'Associates degree',USA,'The waitress that served us yesterday was extremely cheerful!',lie,n
+121_f_l_7,Female,40,'Associates degree',USA,'Yesterday i did not cut the grass.',lie,n
+122_f_l_1,Female,45,'Bachelors degree',US,'The yellowstone supervolcano has erupted and has destroyed a large portion of the surrounding area of the park.',lie,n
+122_f_l_2,Female,45,'Bachelors degree',US,'Fifty three people have been killed by a tornado  in oklahoma today.',lie,n
+122_f_l_3,Female,45,'Bachelors degree',US,'Republicans from all over the us are heralding obamacare as a major achievement for the us.',lie,o
+122_f_l_4,Female,45,'Bachelors degree',US,'George clooney has announced that he will be running for president in 2016.',lie,o
+122_f_l_5,Female,45,'Bachelors degree',US,'Due to budget cuts, the white house will be sold and the president will move to wright-patterson airforce base.',lie,o
+122_f_l_6,Female,45,'Bachelors degree',US,'Sugar has been banned from sale in all us supermarkets due to the obesity epidemic.',lie,o
+122_f_l_7,Female,45,'Bachelors degree',US,'Obamacare may be obtained after extensive genetic testing.',lie,o
+123_f_l_1,Female,39,'Bachelors degree','United States','I have blond hair.',lie,n
+123_f_l_2,Female,39,'Bachelors degree','United States','The current president is chinese.',lie,n
+123_f_l_3,Female,39,'Bachelors degree','United States','Oprah is a poor white woman living in south america.',lie,o
+123_f_l_4,Female,39,'Bachelors degree','United States','Angelina jolie has six husbands.',lie,o
+123_f_l_5,Female,39,'Bachelors degree','United States','The first lasdy has 16 sister wives.my tv is in the shape of a circle.',lie,o
+123_f_l_6,Female,39,'Bachelors degree','United States','The united states is a communist society.',lie,o
+123_f_l_7,Female,39,'Bachelors degree','United States','Chinese people bark like dogs.',lie,o
+124_f_l_1,Female,21,'Some college, no degree','United Kingdom','I prefer to date only homosexual men.',lie,n
+124_f_l_2,Female,21,'Some college, no degree','United Kingdom','I like engaging in extreme sports.',lie,n
+124_f_l_3,Female,21,'Some college, no degree','United Kingdom','I am able to fly a plane.',lie,n
+124_f_l_4,Female,21,'Some college, no degree','United Kingdom','I currently own five cats.',lie,n
+124_f_l_5,Female,21,'Some college, no degree','United Kingdom','I drink milk straight from the carton.',lie,n
+124_f_l_6,Female,21,'Some college, no degree','United Kingdom','I own the house that i live in.',lie,n
+124_f_l_7,Female,21,'Some college, no degree','United Kingdom','My mother is chinese.',lie,n
+125_f_l_1,Female,38,'Some college, no degree',USA,'The daddy longlegs is the most venomous spider.',lie,n
+125_f_l_2,Female,38,'Some college, no degree',USA,'Jupiter is 3 light years away.',lie,n
+125_f_l_3,Female,38,'Some college, no degree',USA,'The average height of a man is 6\'1.',lie,n
+125_f_l_4,Female,38,'Some college, no degree',USA,'The bob newhart show was the first television show to air a scene with a toilet.',lie,n
+125_f_l_5,Female,38,'Some college, no degree',USA,'The show glee had the first male to male kiss on primetime tv.',lie,n
+125_f_l_6,Female,38,'Some college, no degree',USA,'There are only 2 species of animals deadly to humans in the united states.',lie,o
+125_f_l_7,Female,38,'Some college, no degree',USA,'You can not yawn with your eyes opened.',lie,o
+126_f_l_1,Female,49,'High School Graduate',usa,'I have never told a lie.',lie,n
+126_f_l_2,Female,49,'High School Graduate',usa,'I never took advantage of someone.',lie,n
+126_f_l_3,Female,49,'High School Graduate',usa,'While growing up, i have never spoken dis respectful to my parents.',lie,n
+126_f_l_4,Female,49,'High School Graduate',usa,'I have never stole anything from a store.',lie,n
+126_f_l_5,Female,49,'High School Graduate',usa,'I never called in sick at work when i was not sick.',lie,n
+126_f_l_6,Female,49,'High School Graduate',usa,'I never had a violent thought about a person.',lie,n
+126_f_l_7,Female,49,'High School Graduate',usa,'I have never had a wrong answer on a test i have taken.',lie,o
+127_f_l_1,Female,38,'Graduate degree (Masters, Doctorate, etc.)',India,'Taj mahal is in delhi.',lie,n
+127_f_l_2,Female,38,'Graduate degree (Masters, Doctorate, etc.)',India,'This year february is having 29 days.',lie,n
+127_f_l_3,Female,38,'Graduate degree (Masters, Doctorate, etc.)',India,'Yesterday it was rainy.',lie,n
+127_f_l_4,Female,38,'Graduate degree (Masters, Doctorate, etc.)',India,'This sunday my school was working.',lie,n
+127_f_l_5,Female,38,'Graduate degree (Masters, Doctorate, etc.)',India,'Tomorrow i will lunch with a superstar.',lie,o
+127_f_l_6,Female,38,'Graduate degree (Masters, Doctorate, etc.)',India,'Tomorrow is monday.',lie,n
+127_f_l_7,Female,38,'Graduate degree (Masters, Doctorate, etc.)',India,'This year onwards i will be having no exams in my school.',lie,o
+128_f_l_1,Female,24,'Some college, no degree',USA,'There is milk in the fridge.',lie,n
+128_f_l_2,Female,24,'Some college, no degree',USA,'I have a cat named marcy.',lie,n
+128_f_l_3,Female,24,'Some college, no degree',USA,'I want to be a surgeon.',lie,n
+128_f_l_4,Female,24,'Some college, no degree',USA,'I live in california.',lie,n
+128_f_l_5,Female,24,'Some college, no degree',USA,'There is a bird feeder on the front porch.',lie,n
+128_f_l_6,Female,24,'Some college, no degree',USA,'My car is champagne colored.',lie,n
+128_f_l_7,Female,24,'Some college, no degree',USA,'We mowed the backyard yesterday.',lie,n
+129_f_l_1,Female,20,'Some college, no degree',Canada,'I have 3 dogs',lie,n
+129_f_l_2,Female,20,'Some college, no degree',Canada,'Cake is the best thing in the world',lie,o
+129_f_l_3,Female,20,'Some college, no degree',Canada,'I love spinach',lie,n
+129_f_l_4,Female,20,'Some college, no degree',Canada,'Casey\'s dog is brown',lie,n
+129_f_l_5,Female,20,'Some college, no degree',Canada,'Labs are always yellow',lie,o
+129_f_l_6,Female,20,'Some college, no degree',Canada,'Women all want children',lie,o
+129_f_l_7,Female,20,'Some college, no degree',Canada,'Men all want wives',lie,o
+130_f_l_1,Female,46,'Some college, no degree',USA,'The government endorses all genetic modifications for food for american citzens',lie,o
+130_f_l_2,Female,46,'Some college, no degree',USA,'One of the federal supreme court judges is in a legally binding gay marriage',lie,n
+130_f_l_3,Female,46,'Some college, no degree',USA,'Rabbits can eat all types of vegetables',lie,n
+130_f_l_4,Female,46,'Some college, no degree',USA,'In order to promote economic equality, the government is going to put all citizen credit scores at 700 and call it second chance.',lie,o
+130_f_l_5,Female,46,'Some college, no degree',USA,'All fast food restuarants are now mandated to include a calorie count on receipts',lie,o
+130_f_l_6,Female,46,'Some college, no degree',USA,'The malasian airplane that went missing never actually happened, it was just a chinese ploy to start a war.',lie,o
+130_f_l_7,Female,46,'Some college, no degree',USA,'Parental choice options on media sites will always keep children safe from potential harm if they are set high enough.',lie,n
+131_f_l_1,Female,27,'Some college, no degree','The United States','John f.  kennedy was assassinated in 1964.',lie,n
+131_f_l_2,Female,27,'Some college, no degree','The United States','The soviet union dissolved in 1994.',lie,n
+131_f_l_3,Female,27,'Some college, no degree','The United States','The average pay for a cambodian worker is much higher than that of a british worker.',lie,n
+131_f_l_4,Female,27,'Some college, no degree','The United States','Dick van dyke is best known for his role on the 1960s sitcom \"bewitched.\"',lie,n
+131_f_l_5,Female,27,'Some college, no degree','The United States','North korea is considered to be a first world country.',lie,n
+131_f_l_6,Female,27,'Some college, no degree','The United States','The hindenburg crashed in 1945.',lie,n
+131_f_l_7,Female,27,'Some college, no degree','The United States','James cameron is the current prime minister of norway.',lie,n
+132_f_l_1,Female,21,'Associates degree','United States','The moon landing did not occur.',lie,o
+132_f_l_2,Female,21,'Associates degree','United States','They have created vehicles that can run on grass clippings.',lie,o
+132_f_l_3,Female,21,'Associates degree','United States','Flying cars are in development.',lie,n
+132_f_l_4,Female,21,'Associates degree','United States','Worms can continue to live if you place them in a vacuum sealed container.',lie,n
+132_f_l_5,Female,21,'Associates degree','United States','It is safe to eat bird-berries off of bushes.',lie,n
+132_f_l_6,Female,21,'Associates degree','United States','Birds poop on white cars more than on black cars because the color matches the feces.',lie,o
+132_f_l_7,Female,21,'Associates degree','United States','The higher the score, the better you are doing when playing golf.',lie,o
+133_f_l_1,Female,35,'Some college, no degree',Colombia,'The president of the united states of america has red hair.',lie,n
+133_f_l_2,Female,35,'Some college, no degree',Colombia,'If you go to the los angeles airport on fridays at 3am they will give you a free ticket to any destination.',lie,o
+133_f_l_3,Female,35,'Some college, no degree',Colombia,'If you put potato skins in your face every night, you will never have skin cancer.',lie,n
+133_f_l_4,Female,35,'Some college, no degree',Colombia,'The world cup in brazil has been cancelled.',lie,n
+133_f_l_5,Female,35,'Some college, no degree',Colombia,'Dogs can eat chocolate.',lie,n
+133_f_l_6,Female,35,'Some college, no degree',Colombia,'If your car runs out of gas, you can use water and it will work fine.',lie,o
+133_f_l_7,Female,35,'Some college, no degree',Colombia,'Cofee with salt is delicious.',lie,n
+134_f_l_1,Female,51,'Graduate degree (Masters, Doctorate, etc.)',USA,'The weather today is sunny and cool.',lie,n
+134_f_l_2,Female,51,'Graduate degree (Masters, Doctorate, etc.)',USA,'My dog always comes when i call her.',lie,n
+134_f_l_3,Female,51,'Graduate degree (Masters, Doctorate, etc.)',USA,'I had spaghetti for dinner last night.',lie,n
+134_f_l_4,Female,51,'Graduate degree (Masters, Doctorate, etc.)',USA,'My third-grade math teacher was my favorite teacher.',lie,n
+134_f_l_5,Female,51,'Graduate degree (Masters, Doctorate, etc.)',USA,'I run three miles every day.',lie,n
+134_f_l_6,Female,51,'Graduate degree (Masters, Doctorate, etc.)',USA,'I love driving on the freeway.',lie,n
+134_f_l_7,Female,51,'Graduate degree (Masters, Doctorate, etc.)',USA,'My husband always obeys the speed limit.',lie,n
+135_f_l_1,Female,19,'Some college, no degree','United States','My mothers name is christine.',lie,n
+135_f_l_2,Female,19,'Some college, no degree','United States','I\'ve painted my toes.',lie,n
+135_f_l_3,Female,19,'Some college, no degree','United States','I collect porcelain figurines.',lie,n
+135_f_l_4,Female,19,'Some college, no degree','United States','I\'m drinking a dr. pepper.',lie,n
+135_f_l_5,Female,19,'Some college, no degree','United States','I have a boyfriend.',lie,n
+135_f_l_6,Female,19,'Some college, no degree','United States','My sister has a degree in criminology.',lie,n
+135_f_l_7,Female,19,'Some college, no degree','United States','My father has passed away.',lie,n
+136_f_l_1,Female,18,'Some college, no degree','United States','I am a high school drop out.',lie,n
+136_f_l_2,Female,18,'Some college, no degree','United States','President obama was impeached.',lie,n
+136_f_l_3,Female,18,'Some college, no degree','United States','I have three jobs.',lie,n
+136_f_l_4,Female,18,'Some college, no degree','United States','I own my own home.',lie,n
+136_f_l_5,Female,18,'Some college, no degree','United States','I sleep under a bridge.',lie,n
+136_f_l_6,Female,18,'Some college, no degree','United States','I am married.',lie,n
+136_f_l_7,Female,18,'Some college, no degree','United States','I do not have any children.',lie,n
+137_f_l_1,Female,26,'Bachelors degree',USA,'I am wearing leather pants.',lie,n
+137_f_l_2,Female,26,'Bachelors degree',USA,'I live in a mansion.',lie,n
+137_f_l_3,Female,26,'Bachelors degree',USA,'I drive a sports car.',lie,n
+137_f_l_4,Female,26,'Bachelors degree',USA,'I director horror movies.',lie,n
+137_f_l_5,Female,26,'Bachelors degree',USA,'I live next door to a celebrity.',lie,n
+137_f_l_6,Female,26,'Bachelors degree',USA,'I have visited 50 different countries.',lie,n
+137_f_l_7,Female,26,'Bachelors degree',USA,'I own a million dollars worth of jewelry.',lie,o
+138_f_l_1,Female,36,'Bachelors degree','United States','When i was a child, i would sneak peaks into my father\'s tool box and caress the shiny instruments',lie,n
+138_f_l_2,Female,36,'Bachelors degree','United States','I have a lover from brazil; he wakes me up with neck kisses',lie,n
+138_f_l_3,Female,36,'Bachelors degree','United States','Pizza with anchovies has never sparked my interest.',lie,n
+138_f_l_4,Female,36,'Bachelors degree','United States','Actually, given genetic research, a cow with six legs is possible.',lie,o
+138_f_l_5,Female,36,'Bachelors degree','United States','I know, because i once owned a two headed cat.',lie,o
+138_f_l_6,Female,36,'Bachelors degree','United States','More than anything i like to remove the heads from my childrens\' dolls and action figures and attach them to kitchen appliances, with hot glue',lie,n
+138_f_l_7,Female,36,'Bachelors degree','United States','They call me the mad crafter.',lie,n
+139_f_l_1,Female,35,'Bachelors degree',Jamaica,'Barack obama has no children.',lie,n
+139_f_l_2,Female,35,'Bachelors degree',Jamaica,'Amazon mechanical turk is owned by google.',lie,o
+139_f_l_3,Female,35,'Bachelors degree',Jamaica,'The la clippers is owned by magic johnson.',lie,n
+139_f_l_4,Female,35,'Bachelors degree',Jamaica,'The democratic party is a political party in canada.',lie,n
+139_f_l_5,Female,35,'Bachelors degree',Jamaica,'Facebook is not a public company.',lie,n
+139_f_l_6,Female,35,'Bachelors degree',Jamaica,'Cnn is a cartoon network.',lie,o
+139_f_l_7,Female,35,'Bachelors degree',Jamaica,'Kim kardashian and kanye west got married in california.',lie,n
+140_f_l_1,Female,36,'Some High School','The United States','The president of the united states is joe biden.',lie,n
+140_f_l_2,Female,36,'Some High School','The United States','Leonardo dicaprio has won 8 oscars.',lie,o
+140_f_l_3,Female,36,'Some High School','The United States','The world cup will be held in spain this year.',lie,n
+140_f_l_4,Female,36,'Some High School','The United States','The iphone 9 will be coming out in january of next year.',lie,o
+140_f_l_5,Female,36,'Some High School','The United States','There are exactly 6 countries in the world.',lie,o
+140_f_l_6,Female,36,'Some High School','The United States','The most watched channel on television is the home improvement channel.',lie,n
+140_f_l_7,Female,36,'Some High School','The United States','Texas is the largest state in the united states.',lie,o
+141_f_l_1,Female,60,'Graduate degree (Masters, Doctorate, etc.)','United States','A camera is placed in every television, so networks can watch you while you watch the television.',lie,o
+141_f_l_2,Female,60,'Graduate degree (Masters, Doctorate, etc.)','United States','People who serve in the military must have brown hair.',lie,n
+141_f_l_3,Female,60,'Graduate degree (Masters, Doctorate, etc.)','United States','When you mix milk and lemonade, you get cottage cheese.',lie,o
+141_f_l_4,Female,60,'Graduate degree (Masters, Doctorate, etc.)','United States','Florida has a population of 50 million people.',lie,n
+141_f_l_5,Female,60,'Graduate degree (Masters, Doctorate, etc.)','United States','An armadillo has a purple tongue.',lie,n
+141_f_l_6,Female,60,'Graduate degree (Masters, Doctorate, etc.)','United States','Antarctica has hurricanes every summer and fall.',lie,o
+141_f_l_7,Female,60,'Graduate degree (Masters, Doctorate, etc.)','United States','Brad pitt is sixty years old.',lie,n
+142_f_l_1,Female,53,'Some college, no degree',USA,'My hometown is located in colorado in the mountains.',lie,n
+142_f_l_2,Female,53,'Some college, no degree',USA,'The air where i live is mostly always dry.',lie,n
+142_f_l_3,Female,53,'Some college, no degree',USA,'I drive a brand new bmw given to me by my husband.',lie,n
+142_f_l_4,Female,53,'Some college, no degree',USA,'My first vacation was a cruise to italy.',lie,n
+142_f_l_5,Female,53,'Some college, no degree',USA,'My favorite food is mudbugs, or by another name, crawfish.',lie,n
+142_f_l_6,Female,53,'Some college, no degree',USA,'I have always been the shortest one in the group.',lie,n
+142_f_l_7,Female,53,'Some college, no degree',USA,'I enjoy a water vista every day from the front porch.',lie,n
+143_f_l_1,Female,39,'Bachelors degree',usa,'If you open a joint bank account with me, you will not be responsible for any debt i have.',lie,o
+143_f_l_2,Female,39,'Bachelors degree',usa,'You can grow really tall if you eat a lot of protein shakes.',lie,o
+143_f_l_3,Female,39,'Bachelors degree',usa,'I received a 4.0 grade point average in college.',lie,n
+143_f_l_4,Female,39,'Bachelors degree',usa,'I went to stanford university.',lie,n
+143_f_l_5,Female,39,'Bachelors degree',usa,'You will lose weight if you buy my diet chocolate pies.',lie,o
+143_f_l_6,Female,39,'Bachelors degree',usa,'If you invest money in my stock market account, i will make you rich.',lie,n
+143_f_l_7,Female,39,'Bachelors degree',usa,'If you exercise all the time, you will actually gain weight.',lie,o
+144_f_l_1,Female,23,'Associates degree',USA,'Most of my friends are virgins.',lie,n
+144_f_l_2,Female,23,'Associates degree',USA,'New york is a slow-paced, relaxed city.',lie,n
+144_f_l_3,Female,23,'Associates degree',USA,'My english professors have always been boring.',lie,n
+144_f_l_4,Female,23,'Associates degree',USA,'It is humid in kentucky because there are a lot of caves.',lie,o
+144_f_l_5,Female,23,'Associates degree',USA,'Pasta is good for your bones.',lie,n
+144_f_l_6,Female,23,'Associates degree',USA,'Children who read are prone to violence.',lie,o
+144_f_l_7,Female,23,'Associates degree',USA,'Running contributes to hair loss in adult males.',lie,o
+145_f_l_1,Female,26,'High School Graduate','United States','There aren\'t any cookies in my cupboard.',lie,n
+145_f_l_2,Female,26,'High School Graduate','United States','Easter was at the end of march this year.',lie,n
+145_f_l_3,Female,26,'High School Graduate','United States','Life has finally been found on mars.',lie,o
+145_f_l_4,Female,26,'High School Graduate','United States','The actress angelina jolie is pregnant again.',lie,n
+145_f_l_5,Female,26,'High School Graduate','United States','The president is giving a talk today in michigan.',lie,n
+145_f_l_6,Female,26,'High School Graduate','United States','The government is going to stop printing paper money today.',lie,n
+145_f_l_7,Female,26,'High School Graduate','United States','The singer faith hill is going to have a son.',lie,n
+146_f_l_1,Female,23,'Bachelors degree',USA,'I have a tattoo.',lie,n
+146_f_l_2,Female,23,'Bachelors degree',USA,'I am underweight.',lie,n
+146_f_l_3,Female,23,'Bachelors degree',USA,'I tan easily.',lie,n
+146_f_l_4,Female,23,'Bachelors degree',USA,'I am jewish.',lie,n
+146_f_l_5,Female,23,'Bachelors degree',USA,'I am a republican.',lie,n
+146_f_l_6,Female,23,'Bachelors degree',USA,'I own a mac.',lie,n
+146_f_l_7,Female,23,'Bachelors degree',USA,'I speak spanish.',lie,n
+147_f_l_1,Female,39,'Bachelors degree','United States','I have been married twice.',lie,n
+147_f_l_2,Female,39,'Bachelors degree','United States','I was once arrested for stealing a car.',lie,n
+147_f_l_3,Female,39,'Bachelors degree','United States','My parents divorced when i was 5 years old.',lie,n
+147_f_l_4,Female,39,'Bachelors degree','United States','I have 2 sisters and 1 brother.',lie,n
+147_f_l_5,Female,39,'Bachelors degree','United States','I received my ph.d. in nuclear physics.',lie,n
+147_f_l_6,Female,39,'Bachelors degree','United States','I think all americans should carry guns.',lie,n
+147_f_l_7,Female,39,'Bachelors degree','United States','I believe that the tea party will save america.',lie,n
+148_f_l_1,Female,39,'Some college, no degree',USA,'I have a maid.',lie,n
+148_f_l_2,Female,39,'Some college, no degree',USA,'I am a size 8.',lie,n
+148_f_l_3,Female,39,'Some college, no degree',USA,'I am married with two kids.',lie,n
+148_f_l_4,Female,39,'Some college, no degree',USA,'My father is a fireman.',lie,n
+148_f_l_5,Female,39,'Some college, no degree',USA,'I live in a four bedroom home.',lie,n
+148_f_l_6,Female,39,'Some college, no degree',USA,'I have a swimming pool.',lie,n
+148_f_l_7,Female,39,'Some college, no degree',USA,'I live in southern california.',lie,n
+149_f_l_1,Female,46,'Bachelors degree','United States','I plan on dying my hair brown this evening.',lie,n
+149_f_l_2,Female,46,'Bachelors degree','United States','I have three grandchildren; two boys and one girl.',lie,n
+149_f_l_3,Female,46,'Bachelors degree','United States','I have a pit bull named toto.',lie,n
+149_f_l_4,Female,46,'Bachelors degree','United States','I have a degree in early childhood education.',lie,n
+149_f_l_5,Female,46,'Bachelors degree','United States','I have an herb garden.',lie,n
+149_f_l_6,Female,46,'Bachelors degree','United States','The local piggly wiggly is moving to another location next fall.',lie,n
+149_f_l_7,Female,46,'Bachelors degree','United States','The local kangaroo express is hiring.',lie,n
+150_f_l_1,Female,66,'Associates degree',USA,'I hide money under my mattress.',lie,n
+150_f_l_2,Female,66,'Associates degree',USA,'Exercising is a waste of time.',lie,n
+150_f_l_3,Female,66,'Associates degree',USA,'People who wear red are usually aggressive.',lie,n
+150_f_l_4,Female,66,'Associates degree',USA,'Tv commercials often have subliminal messages.',lie,n
+150_f_l_5,Female,66,'Associates degree',USA,'People often mistake kindness for weakness.',lie,n
+150_f_l_6,Female,66,'Associates degree',USA,'Bullying is sometimes necessary.',lie,n
+150_f_l_7,Female,66,'Associates degree',USA,'Taking time to smell the roses only causes allergies to kick in.',lie,o
+151_f_l_1,Female,47,'Graduate degree (Masters, Doctorate, etc.)','United States','There was a tornado in our area today.',lie,n
+151_f_l_2,Female,47,'Graduate degree (Masters, Doctorate, etc.)','United States','It snowed on my kids\' last day of school.',lie,n
+151_f_l_3,Female,47,'Graduate degree (Masters, Doctorate, etc.)','United States','My neighbors have 10 kids.',lie,n
+151_f_l_4,Female,47,'Graduate degree (Masters, Doctorate, etc.)','United States','I travel to europe regularly.',lie,n
+151_f_l_5,Female,47,'Graduate degree (Masters, Doctorate, etc.)','United States','I am planning a trip to new zealand.',lie,n
+151_f_l_6,Female,47,'Graduate degree (Masters, Doctorate, etc.)','United States','I drive a hybrid vehicle.',lie,n
+151_f_l_7,Female,47,'Graduate degree (Masters, Doctorate, etc.)','United States','There are numerous job opportunities in our area.',lie,n
+152_f_l_1,Female,26,'Bachelors degree',Pakistan,'I like to swim and i am not afraid of the water.',lie,n
+152_f_l_2,Female,26,'Bachelors degree',Pakistan,'I have a lot of work at office today and will not be able to meet friends.',lie,n
+152_f_l_3,Female,26,'Bachelors degree',Pakistan,'I left my job because i did not like the work environment, not because i was fired.',lie,n
+152_f_l_4,Female,26,'Bachelors degree',Pakistan,'I want to live alone.',lie,n
+152_f_l_5,Female,26,'Bachelors degree',Pakistan,'The internet is not working today.',lie,n
+152_f_l_6,Female,26,'Bachelors degree',Pakistan,'I like to go out and eat out every night.',lie,n
+152_f_l_7,Female,26,'Bachelors degree',Pakistan,'I don\'t have the books because i gave them to a friend.',lie,n
+153_f_l_1,Female,55,'Bachelors degree',INDIA,'I visited japan and china last month.',lie,n
+153_f_l_2,Female,55,'Bachelors degree',INDIA,'I have never flown on an aeroplane all my life.',lie,n
+153_f_l_3,Female,55,'Bachelors degree',INDIA,'I hate to eat ice cream.',lie,n
+153_f_l_4,Female,55,'Bachelors degree',INDIA,'I have never travelled by bus or train.',lie,n
+153_f_l_5,Female,55,'Bachelors degree',INDIA,'I do not know cooking.',lie,n
+153_f_l_6,Female,55,'Bachelors degree',INDIA,'I was not born in india.',lie,n
+153_f_l_7,Female,55,'Bachelors degree',INDIA,'The sun never shines in my country.',lie,n
+154_f_l_1,Female,24,'Bachelors degree',usa,'Herion is the best drug i have ever tried.',lie,n
+154_f_l_2,Female,24,'Bachelors degree',usa,'My life is a complete fail.',lie,n
+154_f_l_3,Female,24,'Bachelors degree',usa,'The neighbors across the street have twelve children.',lie,n
+154_f_l_4,Female,24,'Bachelors degree',usa,'My son was born a female.',lie,n
+154_f_l_5,Female,24,'Bachelors degree',usa,'I used six enemas last night.',lie,n
+154_f_l_6,Female,24,'Bachelors degree',usa,'Pork is my favorite meat choice.',lie,n
+154_f_l_7,Female,24,'Bachelors degree',usa,'My mother gave birth to quadruplet yesterday.',lie,o
+155_f_l_1,Female,26,'Some High School','United States','Black is a slimming color.',lie,n
+155_f_l_2,Female,26,'Some High School','United States','Its not that bad for you.',lie,n
+155_f_l_3,Female,26,'Some High School','United States','It is an all inclusive deal.',lie,n
+155_f_l_4,Female,26,'Some High School','United States','The book wasn\'t too long.',lie,n
+155_f_l_5,Female,26,'Some High School','United States','The door was left unlocked.',lie,n
+155_f_l_6,Female,26,'Some High School','United States','Her hair was fine.',lie,n
+155_f_l_7,Female,26,'Some High School','United States','Its free with a proof of purchase.',lie,n
+156_f_l_1,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'My neighbor is quite tall.',lie,n
+156_f_l_2,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'Gasoline currently costs $2.00 per gallon.',lie,n
+156_f_l_3,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'The house on the corner is painted green.',lie,n
+156_f_l_4,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'Tomorrow is wednesday.',lie,n
+156_f_l_5,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'The moon is hidden by clouds tonight.',lie,n
+156_f_l_6,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'Our governor is a woman',lie,n
+156_f_l_7,Female,44,'Graduate degree (Masters, Doctorate, etc.)',USA,'I drive a fantastic car.',lie,n
+157_f_l_1,Female,53,'Bachelors degree',usa,'I\'m too sick to come to work.',lie,n
+157_f_l_2,Female,53,'Bachelors degree',usa,'I didn\'t do it.',lie,n
+157_f_l_3,Female,53,'Bachelors degree',usa,'I tried to call.',lie,n
+157_f_l_4,Female,53,'Bachelors degree',usa,'I didn\'t know my tail light was burned out, officer.',lie,n
+157_f_l_5,Female,53,'Bachelors degree',usa,'I did make a complete stop at the stop sign, officer.',lie,n
+157_f_l_6,Female,53,'Bachelors degree',usa,'I don\'t know why my cash register drawer is short, but i swear i did not take the money.',lie,n
+157_f_l_7,Female,53,'Bachelors degree',usa,'Your new haircut looks nice.',lie,n
+158_f_l_1,Female,26,'Graduate degree (Masters, Doctorate, etc.)','United States','I don\'t worry about housing.',lie,n
+158_f_l_2,Female,26,'Graduate degree (Masters, Doctorate, etc.)','United States','I have three sisters.',lie,n
+158_f_l_3,Female,26,'Graduate degree (Masters, Doctorate, etc.)','United States','I grew up in brooklyn.',lie,n
+158_f_l_4,Female,26,'Graduate degree (Masters, Doctorate, etc.)','United States','I lived in paris.',lie,n
+158_f_l_5,Female,26,'Graduate degree (Masters, Doctorate, etc.)','United States','I visited russia.',lie,n
+158_f_l_6,Female,26,'Graduate degree (Masters, Doctorate, etc.)','United States','I visited china.',lie,n
+158_f_l_7,Female,26,'Graduate degree (Masters, Doctorate, etc.)','United States','I visited egypt.',lie,n
+159_f_l_1,Female,55,'Bachelors degree',INDIA,'My cow lays daily two eggs for my omlette',lie,o
+159_f_l_2,Female,55,'Bachelors degree',INDIA,'The bullocks in the field had corn flakes for thier breakfast',lie,o
+159_f_l_3,Female,55,'Bachelors degree',INDIA,'I never told a lie in my entire life',lie,n
+159_f_l_4,Female,55,'Bachelors degree',INDIA,'My parrot sings \"happy birday song\" ver well',lie,o
+159_f_l_5,Female,55,'Bachelors degree',INDIA,'President obama speaks tamil very fluently',lie,o
+159_f_l_6,Female,55,'Bachelors degree',INDIA,'Grandma had a root canal at the age of 90',lie,n
+159_f_l_7,Female,55,'Bachelors degree',INDIA,'People cross road when the red light is on',lie,n
+160_f_l_1,Female,57,'Graduate degree (Masters, Doctorate, etc.)',India,'The earth is flat.',lie,o
+160_f_l_2,Female,57,'Graduate degree (Masters, Doctorate, etc.)',India,'The moon is square in shape.',lie,o
+160_f_l_3,Female,57,'Graduate degree (Masters, Doctorate, etc.)',India,'The sun is made up of ice.',lie,o
+160_f_l_4,Female,57,'Graduate degree (Masters, Doctorate, etc.)',India,'The earth will be completely ice covered in ten years.',lie,o
+160_f_l_5,Female,57,'Graduate degree (Masters, Doctorate, etc.)',India,'Grass is black in color.',lie,o
+160_f_l_6,Female,57,'Graduate degree (Masters, Doctorate, etc.)',India,'Humans will all turn into ets in a year.',lie,o
+160_f_l_7,Female,57,'Graduate degree (Masters, Doctorate, etc.)',India,'Next year on wards a black cow will give black milk, a brown one brown milk and so on.',lie,o
+161_f_l_1,Female,27,'Some college, no degree',USA,'I ate dinner with president barack obama in the oval room at the white house yesterday.',lie,o
+161_f_l_2,Female,27,'Some college, no degree',USA,'This morning, my dog woke me up because she was making choking sounds, and then she threw up on my carpet.',lie,n
+161_f_l_3,Female,27,'Some college, no degree',USA,'I have so much laundry to do that it will take at least six or seven loads and right now its all piled on my floor.',lie,n
+161_f_l_4,Female,27,'Some college, no degree',USA,'I got straight a\'s all through high school and i barely studied or did homework, i guess i\'m just smart.',lie,n
+161_f_l_5,Female,27,'Some college, no degree',USA,'I get along really well with everyone, i\'m an outgoing people person.',lie,n
+161_f_l_6,Female,27,'Some college, no degree',USA,'I have five cats and they are all orange and answer to the name garfield.',lie,n
+161_f_l_7,Female,27,'Some college, no degree',USA,'Russia is planning to nuke the united states tomorrow, i have inside information.',lie,o
+162_f_l_1,Female,33,'Graduate degree (Masters, Doctorate, etc.)',USA,'The us government does its best to be truthful.',lie,n
+162_f_l_2,Female,33,'Graduate degree (Masters, Doctorate, etc.)',USA,'If you lock your doors, nobody will ever break into your house.',lie,o
+162_f_l_3,Female,33,'Graduate degree (Masters, Doctorate, etc.)',USA,'The grass is greener on the other side of the fence.',lie,n
+162_f_l_4,Female,33,'Graduate degree (Masters, Doctorate, etc.)',USA,'Airplanes never crash.',lie,o
+162_f_l_5,Female,33,'Graduate degree (Masters, Doctorate, etc.)',USA,'Business is always conducted in the english language.',lie,o
+162_f_l_6,Female,33,'Graduate degree (Masters, Doctorate, etc.)',USA,'Your credit card company will not charge a fee for late payments.',lie,n
+162_f_l_7,Female,33,'Graduate degree (Masters, Doctorate, etc.)',USA,'American pioneers treated the indians fairly.',lie,n
+163_f_l_1,Female,40,'High School Graduate',India,'Im the daughter of the prime minister',lie,o
+163_f_l_2,Female,40,'High School Graduate',India,'I have a lamborghini in ma garage',lie,o
+163_f_l_3,Female,40,'High School Graduate',India,'My son is the worlds best singer',lie,o
+163_f_l_4,Female,40,'High School Graduate',India,'My husband is the india\'s best actor',lie,o
+163_f_l_5,Female,40,'High School Graduate',India,'I have a million dollors in my account',lie,o
+163_f_l_6,Female,40,'High School Graduate',India,'I dont know how to speak in english',lie,n
+163_f_l_7,Female,40,'High School Graduate',India,'I am going to be next president of india',lie,o
+164_f_l_1,Female,45,'Some High School','Sri Lanka but I spend most of my first 20 years of life in the US and Europe.','The president of sri lanka is an honorable man for he has never lied during the whole time he has presided over the country plus he cares about his citizens since he does not make them pay high taxes.',lie,n
+164_f_l_2,Female,45,'Some High School','Sri Lanka but I spend most of my first 20 years of life in the US and Europe.','Every singles muslim in this world are peace loving for not a single person belonging to the muslim community has ever waged jihad on non-muslims or beheaded non-muslims for not accepting islam.',lie,n
+164_f_l_3,Female,45,'Some High School','Sri Lanka but I spend most of my first 20 years of life in the US and Europe.','Ethiopia is a country which has never heard of the word famine because all its citizens have never gone hungry and have enough',lie,n
+164_f_l_4,Female,45,'Some High School','Sri Lanka but I spend most of my first 20 years of life in the US and Europe.','Rwanda is a peaceful nation where all ethnic groups live in harmony and where there was never any bloodshed.',lie,n
+164_f_l_5,Female,45,'Some High School','Sri Lanka but I spend most of my first 20 years of life in the US and Europe.','Congo is a beautiful country where all its citizens live happily and in harmony with each other without fear of being rape or murdered.',lie,n
+164_f_l_6,Female,45,'Some High School','Sri Lanka but I spend most of my first 20 years of life in the US and Europe.','Pakistan is a country where its muslim citizens tolerate christians and love them wholeheartedly and have never raped or murdered a single christian for being a non-muslim.',lie,n
+164_f_l_7,Female,45,'Some High School','Sri Lanka but I spend most of my first 20 years of life in the US and Europe.','India is one country in the world that there is no such thing as the caste system and where a baby if born a girl will never be murdered since baby girls are welcomed in india the same way baby boys are.',lie,n
+165_f_l_1,Female,23,'Some college, no degree','UNITED STATES','I was a pilot of an airplane but i decided to retire.',lie,n
+165_f_l_2,Female,23,'Some college, no degree','UNITED STATES','I like to eat cereal with orange juice.',lie,n
+165_f_l_3,Female,23,'Some college, no degree','UNITED STATES','My dog likes to eat food that humans would eat instead of dog food.',lie,n
+165_f_l_4,Female,23,'Some college, no degree','UNITED STATES','There are four schools in the town that i live in.',lie,n
+165_f_l_5,Female,23,'Some college, no degree','UNITED STATES','The grocery store near me does not sell diet soda.',lie,n
+165_f_l_6,Female,23,'Some college, no degree','UNITED STATES','It would take me two hours to run a two miles around a high school track.',lie,n
+165_f_l_7,Female,23,'Some college, no degree','UNITED STATES','I have three cars, but i only like to drive one.',lie,n
+166_f_l_1,Female,32,'Bachelors degree',USA,'I believe most people are kind.',lie,n
+166_f_l_2,Female,32,'Bachelors degree',USA,'The mailman always comes at the same time every day.',lie,n
+166_f_l_3,Female,32,'Bachelors degree',USA,'The most expensive electronic is always the most reliable.',lie,n
+166_f_l_4,Female,32,'Bachelors degree',USA,'Every person that has broken a bone can feel pain in the bone years later when the weather changes drastically.',lie,n
+166_f_l_5,Female,32,'Bachelors degree',USA,'Lawyers are always looking out for the best interests of their clients.',lie,n
+166_f_l_6,Female,32,'Bachelors degree',USA,'Everyone looks forward to the weekend.',lie,n
+166_f_l_7,Female,32,'Bachelors degree',USA,'Today is friday.',lie,n
+167_f_l_1,Female,49,'Some college, no degree','United States','The wind won\'t toss my hat.',lie,n
+167_f_l_2,Female,49,'Some college, no degree','United States','I won\'t catch a cold this winter.',lie,n
+167_f_l_3,Female,49,'Some college, no degree','United States','It rarely rains in the tropics.',lie,n
+167_f_l_4,Female,49,'Some college, no degree','United States','Rock hounds usually prefer country music.',lie,n
+167_f_l_5,Female,49,'Some college, no degree','United States','British people are nosy.',lie,n
+167_f_l_6,Female,49,'Some college, no degree','United States','Elderly people like linguini.',lie,n
+167_f_l_7,Female,49,'Some college, no degree','United States','A cane is a devise for snagging the arms of naughty children.',lie,n
+168_f_l_1,Female,28,'Bachelors degree','United States','My mother was born in germany.',lie,n
+168_f_l_2,Female,28,'Bachelors degree','United States','My best friend was once part of a circus.',lie,n
+168_f_l_3,Female,28,'Bachelors degree','United States','I am bilingual in french.',lie,n
+168_f_l_4,Female,28,'Bachelors degree','United States','My favorite television show is the view.',lie,n
+168_f_l_5,Female,28,'Bachelors degree','United States','My father was once the rodeo out in texas.',lie,n
+168_f_l_6,Female,28,'Bachelors degree','United States','My grandfather was a navy seal.',lie,n
+168_f_l_7,Female,28,'Bachelors degree','United States','My favorite color is yellow.',lie,n
+169_f_l_1,Female,40,'Graduate degree (Masters, Doctorate, etc.)',U.S.A.,'The 9/11 terrorist attack in new york really was caused by the u.s. to start a war with iran for their oil.',lie,o
+169_f_l_2,Female,40,'Graduate degree (Masters, Doctorate, etc.)',U.S.A.,'During the attack at the elementary school in sandy hooks, over 20 people including women and children were killed.',lie,n
+169_f_l_3,Female,40,'Graduate degree (Masters, Doctorate, etc.)',U.S.A.,'Malcolm x was killed by someone within his organization.',lie,n
+169_f_l_4,Female,40,'Graduate degree (Masters, Doctorate, etc.)',U.S.A.,'The u.s. governments uses chemtrails to cover up extra-terrestial activity occurring in the sky.',lie,o
+169_f_l_5,Female,40,'Graduate degree (Masters, Doctorate, etc.)',U.S.A.,'To prevent babies from experiencing colic it is important to give them a spoonful of castor oil daily.',lie,n
+169_f_l_6,Female,40,'Graduate degree (Masters, Doctorate, etc.)',U.S.A.,'Vaccines are used in the u.s. as a form of population control.',lie,o
+169_f_l_7,Female,40,'Graduate degree (Masters, Doctorate, etc.)',U.S.A.,'Gifts of expensive jewelry is the best way to prove your love for someone.',lie,n
+170_f_l_1,Female,24,'Some college, no degree','United States','I live in a blue house.',lie,n
+170_f_l_2,Female,24,'Some college, no degree','United States','My best friend\'s name is becky.',lie,n
+170_f_l_3,Female,24,'Some college, no degree','United States','I know how to drive.',lie,n
+170_f_l_4,Female,24,'Some college, no degree','United States','I love hot weather.',lie,n
+170_f_l_5,Female,24,'Some college, no degree','United States','It is raining outside.',lie,n
+170_f_l_6,Female,24,'Some college, no degree','United States','The house is very silent.',lie,n
+170_f_l_7,Female,24,'Some college, no degree','United States','I am very tall.',lie,n
+171_f_l_1,Female,34,'Bachelors degree','United States','The sky is purple, during the day.',lie,o
+171_f_l_2,Female,34,'Bachelors degree','United States','One of the ways to feel relax is by drinking excessively.',lie,n
+171_f_l_3,Female,34,'Bachelors degree','United States','The meaning of life is to be depressed and feel worthless',lie,n
+171_f_l_4,Female,34,'Bachelors degree','United States','Adults are not allowed to vote in some cities',lie,o
+171_f_l_5,Female,34,'Bachelors degree','United States','The legal age to drink and smoke is 34 in the united states',lie,o
+171_f_l_6,Female,34,'Bachelors degree','United States','Elephants are considered to be smaller than a mice.',lie,o
+171_f_l_7,Female,34,'Bachelors degree','United States','Dogs like to meow, while cats like to bark.',lie,o
+172_f_l_1,Female,58,'Associates degree',usa,'Dogs can fly.',lie,o
+172_f_l_2,Female,58,'Associates degree',usa,'The moonlight  will cause sunburn.',lie,o
+172_f_l_3,Female,58,'Associates degree',usa,'Horses prefer to eat liver.',lie,o

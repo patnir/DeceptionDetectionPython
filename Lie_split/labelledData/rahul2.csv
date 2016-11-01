@@ -832,8 +832,8 @@
 291_f_l_2,Female,53,'Bachelors degree','United States','I love football.',lie,n
 291_f_l_3,Female,53,'Bachelors degree','United States','My dog has long hair.',lie,n
 291_f_l_4,Female,53,'Bachelors degree','United States','I am hungry.',lie,n
-291_f_l_5,Female,53,'Bachelors degree','United States','I drive a horse drawn carriage.',lie
-291_f_l_6,Female,53,'Bachelors degree','United States','Fire engines are painted blue.',lie,n
+291_f_l_5,Female,53,'Bachelors degree','United States','I drive a horse drawn carriage.',lie,n
+291_f_l_6,Female,53,'Bachelors degree','United States','Fire engines are painted blue.',lie,o
 291_f_l_7,Female,53,'Bachelors degree','United States','The yellow pages are green.',lie,n
 292_f_l_1,Female,32,'Graduate degree (Masters, Doctorate, etc.)',Serbia,'Greece is a country in asia.',lie,n
 292_f_l_2,Female,32,'Graduate degree (Masters, Doctorate, etc.)',Serbia,'Novak djokovic is a famous actor.',lie,n
@@ -1159,7 +1159,7 @@
 39_m_l_7,Male,27,'Some college, no degree',USA,'The best lies are overly complicated and you will never be caught.',lie,n
 40_m_l_1,Male,24,'High School Graduate','United States','All americans are racist.',lie,n
 40_m_l_2,Male,24,'High School Graduate','United States','My favorite color is red.',lie,n
-40_m_l_3,Male,24,'High School Graduate','United States','I am muslim.',lie.n
+40_m_l_3,Male,24,'High School Graduate','United States','I am muslim.',lie,n
 40_m_l_4,Male,24,'High School Graduate','United States','I have 10 siblings.',lie,n
 40_m_l_5,Male,24,'High School Graduate','United States','I was born in florida.',lie,n
 40_m_l_6,Male,24,'High School Graduate','United States','I speak french.',lie,n
